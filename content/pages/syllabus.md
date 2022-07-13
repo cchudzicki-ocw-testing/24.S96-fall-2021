@@ -12,7 +12,7 @@ uid: 9de45d59-4a97-46d3-a574-6186ff07631c
 
 ## Prerequisites
 
- 
+None
 
 ## Course Description
 
@@ -30,7 +30,7 @@ Now consider this three-way gap between:
 
 - our own egalitarian ideals in (1) about the universal worth of the world’s languages;
 - these discriminatory practices, in (2), that exclude too many languages in classrooms (and even courtrooms) throughout the world, especially in the Global South, where these languages are most needed for universal access to quality education (and to justice);
-- the, often inadvertent, elitist and exclusive nature of academia, as in (3), which risks alienating these very speech communities whose struggles for liberation, justice and economic opportunity stand to benefit from our research in linguistics.
+- the, often inadvertent, elitist and exclusive nature of academia, as in (3), which risks alienating these very speech communities whose struggles for liberation, justice, and economic opportunity stand to benefit from our research in linguistics.
 
 Now here’s a key question for us:
 
@@ -38,7 +38,7 @@ Is it our responsibility, as linguists, to analyze and try to narrow this three-
 
 Some of the reasons for the sort of linguistic discrimination mentioned in (2) have to do with colonial history and white supremacy writ large.  A full analysis of (2) would take us too far afield as it would require forays into history, sociology, political science, critical race theory, etc. 
 
-Our goal this semester will be more modest and more in line with our discipline, though we will certainly need to keep the above disciplines in mind throughout our discussions.  At the very least, we need to unveil the, often hidden, role of ideology and various “normative gazes” in deciding what sorts of questions, in the first place, are even worth asking among linguists.
+Our goal this semester will be more modest and more in line with our discipline, though we will certainly need to keep the above disciplines in mind throughout our discussions.  At the very least, we need to unveil the often hidden role of ideology and various “normative gazes” in deciding what sorts of questions, in the first place, are even worth asking among linguists.
 
 In this seminar as a “sandbox”, we will look at efforts by linguists and educators making their research more inclusive, accessible and hospitable, and trying to reduce that three-way gap between: (i) linguists’ egalitarian ideals; (ii) linguistic-discrimination practices in various communities worldwide; and (iii) the (perceived) elitist attitudes of academic linguistics. 
 
@@ -59,8 +59,8 @@ To stimulate and inspire discussion and projects, we plan to cover topics and in
 
 Our starting point in the first couple of weeks is Haiti, as we look at the MIT-Haiti Initiative in the context of #BlackLivesMatter writ large. Here are a couple of references available online, to get us started:
 
-[DeGraff, Michel (2020) “The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
+[DeGraff, Michel (2020): “The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
 
-[DeGraff, Michel (2020) “Toward Racial Justice in Linguistics: The Case of Creole Studies”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
+[DeGraff, Michel (2020): “Toward Racial Justice in Linguistics: The Case of Creole Studies”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
 
-[DeGraff, Michel (2021) "Creole Formation vs. Emergence of Human Language? Origins and Evolution of 'Linguists' Most Dangerous Myth"](https://youtu.be/b7UzUt8peRE)
+[DeGraff, Michel (2021), keynote lecture at @Protolang7: "Creole Formation vs. Emergence of Human Language? Origins and Evolution of 'Linguists' Most Dangerous Myth'"](https://youtu.be/b7UzUt8peRE) (YouTube)
