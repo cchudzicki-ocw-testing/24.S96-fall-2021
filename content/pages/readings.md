@@ -8,7 +8,7 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
 ## Language and Education in Haiti
 
-Michel DeGraff (2005) “Linguists’ most dangerous myth: The fallacy of Creole Exceptionalism,” Language in Society 34: 533–591. [http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdfLinks to an external site.](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf)
+Michel DeGraff (2005) “Linguists’ most dangerous myth: The fallacy of Creole Exceptionalism,” Language in Society 34: 533–591. [http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdfLinks](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdfLinks) to an external site.
 
 Fabienne Doucet: “Arrested development: How lack of will cripples educational reform in Haiti.” Journal of Haitian Studies 2012, 18(1), [118-148.](https://canvas.mit.edu/courses/10950/files/1619396?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)Download 118-148.](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
 
@@ -114,7 +114,7 @@ Devonish, Hubert. Language and liberation: Creole language politics in the Carib
 
 [William, Frederick (1970) *Language and Poverty: Perspectives on a theme*Links to an external site.](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)
 
-## Online resources:
+## Online Resources:
 
 [*Kreol Moris (Links to an external site.)*](https://www.abaim.mu/)
 
