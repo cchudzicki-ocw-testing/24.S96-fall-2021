@@ -10,15 +10,15 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 
 DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
-Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, August 1st, 2014.
+DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+
+DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
 
 DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages" (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
 
-DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
-
-DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.
+Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. 
 
 ## Language and Politics in the Caribbean
 
@@ -34,45 +34,44 @@ DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapien
 
 ## Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
-DeGraff, Michel, and Stump, Glenda S. (2018). ["Kreyòl, Pedagogy, and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf). *Language* 94(2): e127–e157.
-
 DeGraff, Michel (2016). ["Mother-Tongue Books in Haiti: The Power of Kreyòl in Learning to Read and in Reading to Learn" (PDF)](http://linguistics.mit.edu/wp-content/uploads/degraff_2016_mother-tongue_books_in_Haiti.pdf). *Prospects* 46: 435–464.
+
+DeGraff, Michel, and Stump, Glenda S. (2018). ["Kreyòl, Pedagogy, and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf). *Language* 94(2): e127–e157.
 
 ### Additional Resources
 
-Abdul Latif Jameel World Education Lab (2020). ["The Undervalued Currency of Culture in Higher Education" (video)](https://jwel.mit.edu/undervalued-currency-culture-higher-education). Presentation of Platfòm MIT-Ayiti at MIT Open Learning, October 15, 2020.
+Abdul Latif Jameel World Education Lab (2020). ["The Undervalued Currency of Culture in Higher Education" (video)](https://jwel.mit.edu/undervalued-currency-culture-higher-education). Presentation of Platfòm MIT-Ayiti at MIT Open Learning, 15 October 2020.
 
-DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)](https://www.youtube.com/watch?v=MQZs3fD-Z4E). Lecture delivered at Concordia University, February 25, 2021.
+DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)](https://www.youtube.com/watch?v=MQZs3fD-Z4E). Lecture delivered at Concordia University, 25 February 2021.
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
-Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1), 92–125.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661954/download?download_frd=1)
+Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 233: 97–118 
 
-Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 
-
-233: 97–118 [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
+Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1): 92–125.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661954/download?download_frd=1)[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
 
 ### Additional Resources:
 
-[Jaden Timoun](https://jadentimoun.com/aboutus/) website
-
 [Jaden Timoun](https://www.facebook.com/jadentimoun/videos/248563346261266) Facebook video
+
+[Jaden Timoun](https://jadentimoun.com/aboutus/) website "About" page
 
 ## Seychelles' Language Policy for "Leveling the Field" (Guests: Penda Choppy, Justin Zelime, and Aneesa Vel)
 
-[Deutschmann and Zelima (2021) "Researching Kreol Seselwa and its Role in Education in the Pursuit of Educational Equity in the Seychelles"](https://canvas.mit.edu/courses/10950/files/1648278?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
+Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge.  [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
 
-[Hossen (2018) *Lalang Seselwa an Mouvman: The changing Linguistic Landscapes of Seychelles*](https://canvas.mit.edu/courses/10950/files/1656038?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1656038/download?download_frd=1)
+Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1656038/download?download_frd=1)
 
-[Persaud (2017) ](https://canvas.mit.edu/courses/10950/files/1650527?wrap=1) [Persaud (2017)](https://canvas.mit.edu/courses/10950/files/1650527/download?download_frd=1)[*Unpacking Paradise Geography: Education Narratives from the Seychelles*](https://canvas.mit.edu/courses/10950/files/1650527?wrap=1) [*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1650527/download?download_frd=1) 2.1.2 Education in Seychelles; 2.3.2 The 'Power-Knowledge' dialectic; 2.3.4 'Glocal' Postcolonial identities
+Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation for UCL Institute of Education*.*
 
-[Fox (2005) "Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform"](https://canvas.mit.edu/courses/10950/files/1650537?wrap=1)
+Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.
 
-[Choppy (2020) "From Local Creoles to Global Creoles: Insights from the Seychelles"](https://canvas.mit.edu/courses/10950/files/1650605?wrap=1)
+Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insights from the Seychelles" (PDF)](https://www.um.edu.mt/library/oar/bitstream/123456789/56498/1/SST-3-1-5-Choppy.pdf). *Small States & Territories* 3(1): 57–70. 
 
 ### Optional Reading (in Kreol Seselwa)
 
-[Choppy (2014) "Ledikasyon Kiltirel"](https://canvas.mit.edu/courses/10950/files/1650556?wrap=1)
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour   
+soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1-2 October, 2014.
 
 ### Live-Streamed Video via Facebook
 
