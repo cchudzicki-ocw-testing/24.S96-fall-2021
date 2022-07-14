@@ -8,29 +8,29 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
 ## Language and Education in Haiti
 
-Michel DeGraff (2005) “Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism,” *Language in Society* 34: 533–591. [http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdfLinks)
+DeGraff, Michel (2005). [“Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism” (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
-Fabienne Doucet: “Arrested Development: How Lack of Will Cripples Educational Reform in Haiti.” *Journal of Haitian Studies* 2012, 18(1), [118-148.](https://canvas.mit.edu/courses/10950/files/1619396?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+Doucet, Fabienne (2012). [“Arrested Development: How Lack of Will Cripples Educational Reform in Haiti.”](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
 
-[Michel DeGraff and Molly Ruggles (2014) “A Creole Solution for Haiti’s Woes,” *New York Times*, August 1st, 2014.](http://nyti.ms/1ohUlOf)
+DeGraff, Michel, and Molly Ruggles (2014). [“A Creole Solution for Haiti’s Woes.”](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, August 1st, 2014.
 
-[Michel DeGraff and Kendy Vérilus: “Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages” 2015 NSF Video Showcase](http://videohall.com/p/519)
+DeGraff, Michel, and Kendy Vérilus (2015). [“Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages” (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
 
-[Michel DeGraff (2017) “Haiti’s ‘Linguistic Apartheid’ Violates Human Rights and Hampers Economic Development”](https://www.opendemocracy.net/openglobalrights/michel-degraff/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-)
+DeGraff, Michel (2017). [“Haiti’s ‘Linguistic Apartheid’ Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-[Michel DeGraff: “Against Apartheid in Education and in Linguistics” Foreword, *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo, Routledge, 2019](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf)
+DeGraff, Michel (2019). [“Against Apartheid in Education and in Linguistics” (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.
 
 ## Language and Politics in the Caribbean
 
-Devonish, Hubert. *Language and Liberation: Creole Language Politics in the Caribbean.* (Kingston, Jamaica: Arawak, 2007) [pp. 118-142,](https://canvas.mit.edu/courses/10950/files/1619385?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619385/download?download_frd=1)182–241.
+Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean.* 182–241. Arawak.
 
 ## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
 
-[DeGraff (2020) “Politics of Education”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
+DeGraff, MIchel (2020). ["The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation."](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/) *JOPOL* 3.
 
-[DeGraff (2021) “Racial Justice in Linguistics”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
+DeGraff, Michel (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-[Video of recent keynote lecture at](https://youtu.be/b7UzUt8peRE) [@Protolang7](https://github.com/Protolang7) conference on September 6, 2021
+DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens"](https://www.youtube.com/watch?v=b7UzUt8peRE) (YouTube). Keynote lecture at @Protolang7 conference, September 6, 2021.
 
 ## Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
