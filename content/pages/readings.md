@@ -8,17 +8,17 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
 ## Language and Education in Haiti
 
-DeGraff, Michel (2005). [“Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism” (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
+DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
-Doucet, Fabienne (2012). [“Arrested Development: How Lack of Will Cripples Educational Reform in Haiti.”](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
 
-DeGraff, Michel, and Molly Ruggles (2014). [“A Creole Solution for Haiti’s Woes.”](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, August 1st, 2014.
+DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, August 1st, 2014.
 
-DeGraff, Michel, and Kendy Vérilus (2015). [“Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages” (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
+DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages" (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
 
-DeGraff, Michel (2017). [“Haiti’s ‘Linguistic Apartheid’ Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
+DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-DeGraff, Michel (2019). [“Against Apartheid in Education and in Linguistics” (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.
+DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.
 
 ## Language and Politics in the Caribbean
 
@@ -30,23 +30,19 @@ DeGraff, MIchel (2020). ["The Politics of Education in Post-colonies: Kreyòl in
 
 DeGraff, Michel (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens"](https://www.youtube.com/watch?v=b7UzUt8peRE) (YouTube). Keynote lecture at @Protolang7 conference, September 6, 2021.
+DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
 
 ## Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
-[DeGraff (2020) “Politics of Education”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
+DeGraff, Michel, and Stump, Glenda S. (2018). ["Kreyòl, Pedagogy, and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf). *Language* 94(2): e127–e157.
 
-[DeGraff (2021) “Racial justice in Linguistics”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
+DeGraff, Michel (2016). ["Mother-Tongue Books in Haiti: The Power of Kreyòl in Learning to Read and in Reading to Learn" (PDF)](http://linguistics.mit.edu/wp-content/uploads/degraff_2016_mother-tongue_books_in_Haiti.pdf). *Prospects* 46: 435–464.
 
-[DeGraff and Stump (2018) "Kreyòl, Pedagogy and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift"](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf)
-
-[DeGraff (2016) "Mother-Tongue Books in Haiti: The Power of Kreyòl in Learning to Read and in Reading to Learn"](http://linguistics.mit.edu/wp-content/uploads/degraff_2016_mother-tongue_books_in_Haiti.pdf)
-
-### Extra resources:
+### Additional Resources
 
 [Video of presentation of Platfòm MIT-Ayiti @ MIT Open Learning: *The Undervalued Currency of Culture in Education*](https://jwel.mit.edu/undervalued-currency-culture-higher-education)
 
-[DeGraff (2020) Lecture on #BlackLivesMatter --> #OurLanguagesMatter:  Language rights are HUMAN rights—in Haiti and beyond](https://youtu.be/MQZs3fD-Z4E)
+[DeGraff, Michel (2020). Lecture on #BlackLivesMatter --> #OurLanguagesMatter:  Language rights are HUMAN rights—in Haiti and beyond](https://youtu.be/MQZs3fD-Z4E)
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
@@ -54,13 +50,13 @@ DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapien
 
 [Marie Lily Cerat (2015) "The Haitian Language: Defying Odds and Opening Possibilities"](https://canvas.mit.edu/courses/10950/files/1661972?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
 
-### Additional resources:
+### Additional Resources:
 
 [https://jadentimoun.com/aboutus](https://jadentimoun.com/aboutus (Links)
 
 [https://www.facebook.com/jadentimoun/videos/248563346261266](https://www.facebook.com/jadentimoun/videos/248563346261266 (Links)
 
-### Live-streamed video of session:
+### Live-Streamed Video of Session
 
 [https://www.facebook.com/michel.degraff/posts/10159686158108872](https://www.facebook.com/michel.degraff/posts/10159686158108872 (Links)
 
@@ -76,11 +72,11 @@ DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapien
 
 [Choppy (2020) "From Local Creoles to Global Creoles: Insights from the Seychelles"](https://canvas.mit.edu/courses/10950/files/1650605?wrap=1)
 
-### Optional reading (in Kreol Seselwa):
+### Optional Reading (in Kreol Seselwa)
 
 [Choppy (2014) "Ledikasyon Kiltirel"](https://canvas.mit.edu/courses/10950/files/1650556?wrap=1)
 
-### Live-streamed video via Facebook:
+### Live-Streamed Video via Facebook
 
 [https://fb.watch/8tO0R7BOgH/](https://fb.watch/8tO0R7BOgH/)
 
@@ -90,7 +86,7 @@ Chapters 0, 1 and 5 from Nicholas Natchoo's PhD Dissertation: [*A Creolizing Cu
 
 [Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree *(*2012) *"*The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education"](https://canvas.mit.edu/courses/10950/files/1648311?wrap=1)
 
-### Live-streamed video via Facebook:
+### Live-Streamed Video via Facebook
 
 [https://www.facebook.com/mithaiti/videos/1480217725696400/](https://www.facebook.com/mithaiti/videos/1480217725696400/)
 
@@ -100,7 +96,7 @@ Chapters 0, 1 and 5 from Nicholas Natchoo's PhD Dissertation: [*A Creolizing Cu
 
 [Ferreira, Jo-Anne (2018) "Language and Social Justice"](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp)
 
-### Extra resources:  
+### Additional Resources
 
 [Patois video interviews in Trinidad](https://www.facebook.com/notes/668622467402137/)
 
@@ -108,7 +104,7 @@ Chapters 0, 1 and 5 from Nicholas Natchoo's PhD Dissertation: [*A Creolizing Cu
 
 [Patois speakers share their knowledge](https://youtu.be/x2_zlqN6cHI%C2%A0)
 
-### Live-streamed video via Facebook:
+### Live-Streamed Video via Facebook
 
 [Live-streamed video of seminar with Jo-Anne Ferreira, via Facebook](https://www.facebook.com/mithaiti/videos/591832228633260%20%C2%A0)
 
@@ -152,7 +148,7 @@ Blake, Celia (2019) "Language and Access to Justice", pages 109–120 in [*Secur
 
 [Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages](https://canvas.mit.edu/courses/10950/files/1912678?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1912678/download?download_frd=1)
 
-### Live-streamed video via Facebook on 11/16/2021:
+### Live-Streamed Video via Facebook
 
 [https://www.facebook.com/mithaiti/videos/1060463734714819](https://www.facebook.com/mithaiti/videos/1060463734714819 (Links)
 
