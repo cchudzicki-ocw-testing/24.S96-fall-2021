@@ -66,18 +66,18 @@ Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact 
 
 Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1656038/download?download_frd=1)
 
-Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation for UCL Institute of Education*.*
+Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation, UCL Institute of Education*.*
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour    
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour     
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1-2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
 
-Chapters 0, 1 and 5 from Nicholas Natchoo's PhD Dissertation: [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://canvas.mit.edu/courses/10950/files/1648293?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648293/download?download_frd=1)
+Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648293/download?download_frd=1)
 
-[Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree *(*2012) *"*The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education"](https://canvas.mit.edu/courses/10950/files/1648311?wrap=1)
+Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
 
 ### Live-Streamed Video via Facebook
 
