@@ -57,10 +57,4 @@ The overall goal is to have us, all together, sketch models of how linguistics c
 
 To stimulate and inspire discussion and projects, we plan to cover topics and invite speakers that engage work on linguistics for social justice in various areas of the world.  Here’s a tentative list to date, to be fine-tuned pending participants’ interests and as opportunities arise and vanish: Alaska, Cabo Verde, the Caribbean, Ireland, Mauritius, the Netherlands, New York, New Zealand, Seychelles, Shetland…
 
-Our starting point in the first couple of weeks is Haiti, as we look at the MIT-Haiti Initiative in the context of #BlackLivesMatter writ large. Here are a couple of references available online, to get us started:
-
-[DeGraff, Michel (2020): “The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
-
-[DeGraff, Michel (2020): “Toward Racial Justice in Linguistics: The Case of Creole Studies”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
-
-[DeGraff, Michel (2021), keynote lecture at @Protolang7: "Creole Formation vs. Emergence of Human Language? Origins and Evolution of 'Linguists' Most Dangerous Myth'"](https://youtu.be/b7UzUt8peRE) (YouTube)
+Our starting point in the first couple of weeks is Haiti, as we look at the MIT-Haiti Initiative in the context of #BlackLivesMatter writ large.
