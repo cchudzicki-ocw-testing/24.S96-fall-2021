@@ -70,8 +70,8 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour      
-soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1-2 October, 2014.
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour       
+soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
 
@@ -81,9 +81,9 @@ Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Intr
 
 ## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Perreira)
 
-[Ferreira, Jo-Anne (2012) "Caribbean Languages and Caribbean Linguistics"](https://www.researchgate.net/publication/281277310_9_Caribbean_Languages_and_Caribbean_Linguistics)
+Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press.
 
-[Ferreira, Jo-Anne (2018) "Language and Social Justice"](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp)
+Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
 
 ### Additional Resources
 
