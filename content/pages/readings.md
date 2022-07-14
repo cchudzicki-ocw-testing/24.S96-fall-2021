@@ -22,7 +22,7 @@ DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PD
 
 ## Language and Politics in the Caribbean
 
-Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean.* 182–241. Arawak.
+Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak.
 
 ## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
 
@@ -40,9 +40,9 @@ DeGraff, Michel (2016). ["Mother-Tongue Books in Haiti: The Power of Kreyòl in 
 
 ### Additional Resources
 
-[Video of presentation of Platfòm MIT-Ayiti @ MIT Open Learning: *The Undervalued Currency of Culture in Education*](https://jwel.mit.edu/undervalued-currency-culture-higher-education)
+Abdul Latif Jameel World Education Lab (2020). ["The Undervalued Currency of Culture in Higher Education" (video)](https://jwel.mit.edu/undervalued-currency-culture-higher-education). Presentation of Platfòm MIT-Ayiti at MIT Open Learning, October 15, 2020.
 
-[DeGraff, Michel (2020). Lecture on #BlackLivesMatter --> #OurLanguagesMatter:  Language rights are HUMAN rights—in Haiti and beyond](https://youtu.be/MQZs3fD-Z4E)
+DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)](https://www.youtube.com/watch?v=MQZs3fD-Z4E). Lecture delivered at Concordia University, February 25, 2021.
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
