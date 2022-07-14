@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour       
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour        
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -89,13 +89,7 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 
 [Patois video interviews in Trinidad](https://www.facebook.com/notes/668622467402137/)
 
-[Video "Trinidad: The Last Patois Speakers"](https://www.facebook.com/trinidadianpatois/videos/299430897541824%C2%A0)
-
-[Patois speakers share their knowledge](https://youtu.be/x2_zlqN6cHI%C2%A0)
-
-### Live-Streamed Video via Facebook
-
-[Live-streamed video of seminar with Jo-Anne Ferreira, via Facebook](https://www.facebook.com/mithaiti/videos/591832228633260%20%C2%A0)
+[Patois speakers share their knowledge (YouTube)](https://youtu.be/x2_zlqN6cHI%C2%A0)
 
 ## Language Rights and Justice for All in the Caribbean (Guests: Hubert Devonish and team)
 
