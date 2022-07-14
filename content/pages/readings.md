@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour          
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour             
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -109,7 +109,7 @@ Little, Carol Rose, Juan Jesús Vázquez Álvarez, Jessica Coon, Nicolás Arcos 
 
 ## Standardization Processes for Minoritized Languages (Guest: William Scott)
 
-[Einar Haugen (1966) *Dialect Language Nation*](https://canvas.mit.edu/courses/10950/files/1790396?wrap=1)
+Einar Haugen (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable/670407#metadata_info_tab_contents) *American Anthropologist* New Series 68(4): 922–935.
 
 [Costa et al. (2018) *Standardizing Minority Languages*](https://canvas.mit.edu/courses/10950/files/1790384?wrap=1)
 
