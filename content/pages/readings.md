@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour         
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour          
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -99,13 +99,13 @@ Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bi
 
 Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
-## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)
+## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1647598/download?download_frd=1)
 
-[Poetry in translation (from Ch'ol to English) with an interview with the Ch'ol poet Juana Peñate Montejo](http://www.latinamericanliteraturetoday.org/en/2021/august/%E2%80%9Cpoetry-rain-wind-walking%E2%80%9D-interview-ch%E2%80%99ol-poet-juana-pe%C3%B1ate-montejo-and-five-poems)
+González, Jaime Pérez (2021). ["Ethical Principles in Linguistic Fieldwork Methodologies—According to Whom?" (PDF)](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/237ce32c-6246-46f2-bb9c-5e4e967ad22a/content) in Emiliana Cruz Cruz (ed.), *Theoretical Reflections around the Role of Fieldwork in Linguistics and Linguistic Anthropology: Contributions of Indigenous Researchers from Southern Mexico* (Language Documentation & Conservation Special Publication No. 23), 131–152.
 
-[Collaborative Corpus Creation: A Ch’ol Case Study (forthcoming in proceedings of WCCFL 39)](https://canvas.mit.edu/courses/10950/files/1647598?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1647598/download?download_frd=1)
+Little, Carol Rose, Juan Jesús Vázquez Álvarez, Jessica Coon, Nicolás Arcos López, and Morelia Vázquez Martínez (2021). "Collaborative Corpus Creation: A Chol Case Study" in *Proceedings of the 39th West Coast Conference on Formal Linguistics (WCCFL 39)*.
 
-[Ethical Principles in Linguistic Fieldwork Methodologies—According to Whom? Jaime Pérez González (2021)](https://scholarspace.manoa.hawaii.edu/bitstream/10125/24988/1/LD%26C_23_perez.pdf)
+[Poetry in translation (from Ch'ol to English and Spanish) by Ch'ol poet Juana Peñate Montejo](https://www.worldliteraturetoday.org/2022/march/three-poems-chiapas-juana-penate-montejo) and [an interview with Peñate](https://www.worldliteraturetoday.org/conversation-chol-poet-juana-penate-montejo-carol-rose-little-and-charlotte-friedman).
 
 ## Standardization Processes for Minoritized Languages (Guest: William Scott)
 
