@@ -58,24 +58,20 @@ Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identit
 
 ## Seychelles' Language Policy for "Leveling the Field" (Guests: Penda Choppy, Justin Zelime, and Aneesa Vel)
 
-Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge.  [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
+Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insights from the Seychelles" (PDF)](https://www.um.edu.mt/library/oar/bitstream/123456789/56498/1/SST-3-1-5-Choppy.pdf). *Small States & Territories* 3(1): 57–70. 
+
+Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge.  
+
+Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
 
 Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1656038/download?download_frd=1)
 
 Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation for UCL Institute of Education*.*
 
-Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.
-
-Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insights from the Seychelles" (PDF)](https://www.um.edu.mt/library/oar/bitstream/123456789/56498/1/SST-3-1-5-Choppy.pdf). *Small States & Territories* 3(1): 57–70. 
-
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour   
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour    
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1-2 October, 2014.
-
-### Live-Streamed Video via Facebook
-
-[https://fb.watch/8tO0R7BOgH/](https://fb.watch/8tO0R7BOgH/)
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
 
