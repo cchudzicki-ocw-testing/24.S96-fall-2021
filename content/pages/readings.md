@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour        
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour         
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -93,11 +93,11 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 
 ## Language Rights and Justice for All in the Caribbean (Guests: Hubert Devonish and team)
 
-[Devonish, Hubert (2013) "Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation"](https://www.researchgate.net/publication/283914802_Boys_will_be_boys_Gender_and_Bilingual_Education_in_a_Creole_Language_Situation)
+Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
 
-Blake, Celia (2019) "Language and Access to Justice", pages 109–120 in [*Securing Equality for All in the Administration of Justice,* edited by Matthews and Amoah](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)
+Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](file:///C:/Users/Peter%20Chipman/Downloads/BoysWillBeBoysbyCarpenterandDevonish.pdf) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies.
 
-[Walters, Kadian (2016) "'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation"](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/)
+Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
 ## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)
 
