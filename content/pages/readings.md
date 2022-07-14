@@ -46,19 +46,17 @@ DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)]
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
-[Delva (2019) "Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti"](https://canvas.mit.edu/courses/10950/files/1661954?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661954/download?download_frd=1)
+Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1), 92–125.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661954/download?download_frd=1)
 
-[Marie Lily Cerat (2015) "The Haitian Language: Defying Odds and Opening Possibilities"](https://canvas.mit.edu/courses/10950/files/1661972?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
+Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 
+
+233: 97–118 [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
 
 ### Additional Resources:
 
-[https://jadentimoun.com/aboutus](https://jadentimoun.com/aboutus (Links)
+[Jaden Timoun](https://jadentimoun.com/aboutus/) website
 
-[https://www.facebook.com/jadentimoun/videos/248563346261266](https://www.facebook.com/jadentimoun/videos/248563346261266 (Links)
-
-### Live-Streamed Video of Session
-
-[https://www.facebook.com/michel.degraff/posts/10159686158108872](https://www.facebook.com/michel.degraff/posts/10159686158108872 (Links)
+[Jaden Timoun](https://www.facebook.com/jadentimoun/videos/248563346261266) Facebook video
 
 ## Seychelles' Language Policy for "Leveling the Field" (Guests: Penda Choppy, Justin Zelime, and Aneesa Vel)
 
