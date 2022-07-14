@@ -36,7 +36,7 @@ Devonish, Hubert. *Language and Liberation: Creole Language Politics in the Cari
 
 [DeGraff (2020) “Politics of Education”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
 
-[(Links to an external site.)](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)[DeGraff (2021) “Racial justice in Linguistics”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
+[DeGraff (2021) “Racial justice in Linguistics”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
 
 [DeGraff and Stump (2018) "Kreyòl, Pedagogy and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift"](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf)
 
@@ -132,13 +132,13 @@ Blake, Celia (2019) "Language and Access to Justice", pages 109–120 in [*Secur
 
 [Einar Haugen (1966) *Dialect Language Nation*](https://canvas.mit.edu/courses/10950/files/1790396?wrap=1)
 
-[Costa et al (2018) *Standardizing Minority Languages*](https://canvas.mit.edu/courses/10950/files/1790384?wrap=1)
+[Costa et al. (2018) *Standardizing Minority Languages*](https://canvas.mit.edu/courses/10950/files/1790384?wrap=1)
 
-[Urla et al (2018) *Basque Standardization and the New Basque Speaker*](https://canvas.mit.edu/courses/10950/files/1790392?wrap=1)
+[Urla et al. (2018) *Basque Standardization and the New Basque Speaker*](https://canvas.mit.edu/courses/10950/files/1790392?wrap=1)
 
 ## Decolonizing Iñupiaq Language Curricula (Guest: Annauk Denise Aulin)
 
-[Olin, Annauk (Links to an external site.)](https://doyonfoundation.wordpress.com/) (2021) [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our Children in Iñupiaq.  MIT Master’s Thesis*](https://canvas.mit.edu/courses/10950/files/1648464?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648464/download?download_frd=1)
+[Olin, Annauk](https://doyonfoundation.wordpress.com/) (2021) [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our Children in Iñupiaq.  MIT Master’s Thesis*](https://canvas.mit.edu/courses/10950/files/1648464?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648464/download?download_frd=1)
 
 [Chacaby, Maya (2011) *Kipimoojikewin: Articulating Anishinaabe Pedagogy through Anishinaabemowin (Ojibwe Language) Revitalization*](https://hdl.handle.net/1807/30080)
 
@@ -158,17 +158,17 @@ Blake, Celia (2019) "Language and Access to Justice", pages 109–120 in [*Secur
 
 ## Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland (Guest: Viveka Velupillai)
 
-[Da Burn — (Links to an external site.) about the history of Shaetlan](https://youtu.be/P5O6eRJtv8E)
+[Da Burn —  about the history of Shaetlan](https://youtu.be/P5O6eRJtv8E)
 
 [Haar Rolling over Uradale — about language endangerment and revival](https://youtu.be/55jbb4iOy5Q)
 
 Loops on wires
 
-[Musings around Eddie's Noost (Links to an external site.)](https://www.moderdy.org/post/musings-around-eddie-s-noost)\_ ([https://www.moderdy.org/post/musings-around-eddie-s-noost](https://www.moderdy.org/post/musings-around-eddie-s-noost (Links)
+[Musings around Eddie's Noost](https://www.moderdy.org/post/musings-around-eddie-s-noost) ([https://www.moderdy.org/post/musings-around-eddie-s-noost](https://www.moderdy.org/post/musings-around-eddie-s-noost (Links)
 
-I Hear Dee: [Instagram](http://instagram.com/iheardee) [@iheardee](https://github.com/iheardee) (Links to an external site.) or [Facebook](https://www.facebook.com/iheardee) 
+I Hear Dee: [Instagram](http://instagram.com/iheardee) [@iheardee](https://github.com/iheardee) or [Facebook](https://www.facebook.com/iheardee)
 
-[(Links to an external site.)](https://www.facebook.com/iheardee)[A Grammar of Shætlan—Pre-oil and Contemporary (one-page project description)](https://canvas.mit.edu/courses/10950/files/1648485?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648485/download?download_frd=1)
+[A Grammar of Shætlan—Pre-oil and Contemporary (one-page project description)](https://canvas.mit.edu/courses/10950/files/1648485?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648485/download?download_frd=1)
 
 ## Cabo Verdean in Education: Access, Equity, and a Basic Human Right (Guests: Marlyse Baptista and Abel Djassi Amado)
 
@@ -176,7 +176,7 @@ Baptista, Marlyse, and Inês Brito;  (2010) “Cape Verdean in Education: A Lin
 
 [*Creoles in Education: An Appraisal of Current Programs and Projects*](https://canvas.mit.edu/courses/10950/files/1648501?wrap=1) [*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
 
-## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation & Language Friendly Schools)
+## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
 Hurwitz and Kambel (2020). [Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y)
 
@@ -190,15 +190,15 @@ Kambel and Le Pichon (2021): [Schools Join the Language Friendly School Network 
 
 ## General Bibliography
 
-[Alim, Samy et al (2016) *Raciolinguistics*](http://mit.worldcat.org/oclc/951833333)
+[Alim, Samy et al. (2016) *Raciolinguistics*](http://mit.worldcat.org/oclc/951833333)
 
 [Alim, Samy and Geneva Smitherman (2021) *Articulate While Black: Barack Obama, Language, Race in the U.S.*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935183664006761)
 
 [Babaci-Wilhite, Zehlia (2015) *Local Languages as a Human Right in Education: Comparative Cases from Africa*](http://www.worldcat.org/oclc/900864476)
 
-[Baker-Bell, April (2020)  (Links to an external site.)*Linguistic Justice: Black Language, Literacy, Identity and Pedagogy*](https://mit.primo.exlibrisgroup.com/discovery/openurl?institution=01MIT_INST&vid=01MIT_INST:MIT&rft.mms_id=990031888110106761&u.ignore_date_coverage=true)
+[Baker-Bell, April (2020) *Linguistic Justice: Black Language, Literacy, Identity and Pedagogy*](https://mit.primo.exlibrisgroup.com/discovery/openurl?institution=01MIT_INST&vid=01MIT_INST:MIT&rft.mms_id=990031888110106761&u.ignore_date_coverage=true)
 
-[Baptista, Marlyse & Inês Brito  (2010) “Cape Verdean in Education: A Linguistic and Human Right”](http://www.worldcat.org/oclc/7256351899)
+[Baptista, Marlyse, and Inês Brito  (2010) “Cape Verdean in Education: A Linguistic and Human Right”](http://www.worldcat.org/oclc/7256351899)
 
 [Battiste, Marie (2013) *Decolonizing Education: Nourishing the Learning Spirit.*](http://mit.worldcat.org/oclc/856977069)
 
@@ -208,17 +208,17 @@ Kambel and Le Pichon (2021): [Schools Join the Language Friendly School Network 
 
 [Croidheain, Caoimhghin (2016) *Language from Below: Ideology and Power in 20th Century Ireland*](http://mit.worldcat.org/oclc/79587668)
 
-[Dana, Carol; Margo Lukens & Conor Quinn (2021) *Still they Remember Me*](http://mit.worldcat.org/oclc/1235901889)
+[Dana, Carol, Margo Lukens, and Conor Quinn (2021) *Still they Remember Me*](http://mit.worldcat.org/oclc/1235901889)
 
 [DeGraff, Michel (2020) “The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
 
 [DeGraff, Michel (2020) “Toward Racial Justice in Linguistics: The Case of Creole studies”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
 
-[Erling, Elizabeth *et al* (2022) *Multilingual Learning and Supportive Pedagogies in Sub-Saharan Africa*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935165877706761)
+[Erling, Elizabeth et al*.* (2022) *Multilingual Learning and Supportive Pedagogies in Sub-Saharan Africa*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935165877706761)
 
 [Hale, Ken (1992) “Endangered Languages”](https://www.jstor.org/stable/416368)
 
-[Harbert, Wayne *et al* (2009) *Language and Poverty*](http://mit.worldcat.org/oclc/303920477)
+[Harbert, Wayne et al. (2009) *Language and Poverty*](http://mit.worldcat.org/oclc/303920477)
 
 [Harding-Esch, Philip, and Hywel Coleman (2021) *Language and the Sustainable Development Goals*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma990033234550106761)
 
@@ -240,19 +240,19 @@ Kambel and Le Pichon (2021): [Schools Join the Language Friendly School Network 
 
 [Matthews, Janeille Zorina, and Jewel Amoah (2019) *Securing Equality for All in the Administration of Justice. Proceedings of the Caribbean Judicial Dialogue*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)
 
-[Migge, Bettina, Isabelle Léglise, and Angela Bartens (eds., 2010) *Creoles and Education*](http://mit.worldcat.org/oclc/528665948) 
+[Migge, Bettina, Isabelle Léglise, and Angela Bartens (eds., 2010) *Creoles and Education*](http://mit.worldcat.org/oclc/528665948)
 
 [Mufwene, Salikoko (2010) “Review: The Role of Mother Tongue in Eradicating Poverty. Response to Book on *Language and Poverty*”](https://www.jstor.org/stable/40961723)
 
 [Mufwene, Salikoko (2021) “Linguistic Diversity, Formal Education and Economic Development”](https://www.researchgate.net/publication/325695763_Linguistic_Diversity_Formal_Education_and_Economic_Development_The_Sub-Saharan_African_Chicken-and-Egg_Dilemma)
 
-[Peck, Raoul (2021)  (Links to an external site.)*Exterminate All the Brutes*](https://mit.kanopy.com/video/exterminate-all-brutes)
+[Peck, Raoul (2021) *Exterminate All the Brutes*](https://mit.kanopy.com/video/exterminate-all-brutes)
 
 [Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 1: Principles, Enactment, Application*](http://mit.worldcat.org/oclc/1110934950)
 
-[Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908) 
+[Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908)
 
-[Reyhner and Lockard (Links to an external site.)](https://jan.ucc.nau.edu/~jar/ILR/) (2009) [*Indigenous Language Revitalization: Encouragement, Guidance, and Lessons Learned*](https://jan.ucc.nau.edu/~jar/ILR/ILRbook.pdf)
+[Reyhner and Lockard ](https://jan.ucc.nau.edu/~jar/ILR/) (2009) [*Indigenous Language Revitalization: Encouragement, Guidance, and Lessons Learned*](https://jan.ucc.nau.edu/~jar/ILR/ILRbook.pdf)
 
 [Rickford, John, and Sharese King (2016) “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
 
@@ -274,7 +274,7 @@ Kambel and Le Pichon (2021): [Schools Join the Language Friendly School Network 
 
 [*Language Friendly School*](https://languagefriendlyschool.org/)
 
-*Shaetlan* on [Instagram](http://instagram.com/iheardee) and [Facebook](https://www.facebook.com/iheardee) 
+*Shaetlan* on [Instagram](http://instagram.com/iheardee) and [Facebook](https://www.facebook.com/iheardee)
 
 [*Teaching Indigenous Languages*](https://jan.ucc.nau.edu/~jar/books.html)
 
