@@ -70,14 +70,14 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                 
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                  
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
 
-Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648293/download?download_frd=1)
+[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648293/download?download_frd=1)Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
 
-Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
+Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.
 
 ## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Perreira)
 
@@ -123,17 +123,9 @@ Olin, Annauk (2021). [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our C
 
 ## Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages. Case studies from Ireland and New Zealand (Guest: Kevin Scannell)
 
-[Keegan, Peter J.; Te Kaka Keegan, and Mark Laws (2011) “Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions”](https://natlib-primo.hosted.exlibrisgroup.com/permalink/f/1fro764/INNZ7116899490002837)
+Galla, Candace Kaleimamoowahinekapu (2009). [“Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains”](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf) in Jon Reyhner and Louise Lockard (eds.), *Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned,* 167–182. Northern Arizona University. ISBN: 096705544X
 
-[Galla, Candace Kaleimamoowahinekapu (2009) “Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains”](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf)
-
-### Slides:
-
-[Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages](https://canvas.mit.edu/courses/10950/files/1912678?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1912678/download?download_frd=1)
-
-### Live-Streamed Video via Facebook
-
-[https://www.facebook.com/mithaiti/videos/1060463734714819](https://www.facebook.com/mithaiti/videos/1060463734714819 (Links)
+Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions.”](https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=INNZ7116899490002837&vid=NLNZ&search_scope=INNZ&tab=innz&lang=en_US&context=L) *MAI Review* 1.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1912678/download?download_frd=1)
 
 ## Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland (Guest: Viveka Velupillai)
 
