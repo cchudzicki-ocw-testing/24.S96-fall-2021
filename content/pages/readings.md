@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                      
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                       
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -141,7 +141,7 @@ Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy
 
 ## Cabo Verdean in Education: Access, Equity, and a Basic Human Right (Guests: Marlyse Baptista and Abel Djassi Amado)
 
-Baptista, Marlyse, and Inês Brito (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586[*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
+Baptista, Marlyse, Inês Brito, and Saidu Bangura (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586[*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
 
 ## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
@@ -157,17 +157,15 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 ## General Bibliography
 
-[Alim, Samy et al. (2016) *Raciolinguistics*](http://mit.worldcat.org/oclc/951833333)
+Alim, H. Samy, John R. Rickford, and Arnetha F. Ball, editors (2016). *Raciolinguistics: How Language Shapes Our Ideas About Race.* Oxford University Press. ISBN: 9780190625696
 
-[Alim, Samy and Geneva Smitherman (2021) *Articulate While Black: Barack Obama, Language, Race in the U.S.*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma9935183664006761)
+Alim, H. Samy, and Geneva Smitherman (2012). *Articulate While Black: Barack Obama, Language, Race in the U.S.* Oxford University Press. ISBN: 9780199812981
 
-[Babaci-Wilhite, Zehlia (2015) *Local Languages as a Human Right in Education: Comparative Cases from Africa*](http://www.worldcat.org/oclc/900864476)
+Babaci-Wilhite, Zehlia (2015). *Local Languages as a Human Right in Education: Comparative Cases from Africa.* Springer. ISBN: 9789462099470
 
-[Baker-Bell, April (2020) *Linguistic Justice: Black Language, Literacy, Identity and Pedagogy*](https://mit.primo.exlibrisgroup.com/discovery/openurl?institution=01MIT_INST&vid=01MIT_INST:MIT&rft.mms_id=990031888110106761&u.ignore_date_coverage=true)
+Baker-Bell, April (2020). *Linguistic Justice: Black Language, Literacy, Identity, and Pedagogy.* Routledge. ISBN: 9781138551022
 
-[Baptista, Marlyse, and Inês Brito  (2010) “Cape Verdean in Education: A Linguistic and Human Right”](http://www.worldcat.org/oclc/7256351899)
-
-[Battiste, Marie (2013) *Decolonizing Education: Nourishing the Learning Spirit.*](http://mit.worldcat.org/oclc/856977069)
+Battiste, Marie (2013). *Decolonizing Education: Nourishing the Learning Spirit.* University of Chicago Press. ISBN: 9781895830774
 
 [Baugh, John (2018) *Linguistics in Pursuit of Justice*](http://mit.worldcat.org/oclc/1001905697)
 
