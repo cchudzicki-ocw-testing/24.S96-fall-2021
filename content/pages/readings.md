@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour             
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour              
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -111,9 +111,16 @@ Little, Carol Rose, Juan Jesús Vázquez Álvarez, Jessica Coon, Nicolás Arcos 
 
 Einar Haugen (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable/670407#metadata_info_tab_contents) *American Anthropologist* New Series 68(4): 922–935.
 
-[Costa et al. (2018) *Standardizing Minority Languages*](https://canvas.mit.edu/courses/10950/files/1790384?wrap=1)
+Costa, James, Haley De Korne, and Pia Lane (2017). ["Standardizing Minority Languages: Reinventing Peripheral](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae)   
+[Languages in the 21st Century"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae) 
 
-[Urla et al. (2018) *Basque Standardization and the New Basque Speaker*](https://canvas.mit.edu/courses/10950/files/1790392?wrap=1)
+in 
+
+Pia Lane, James Costa, Haley De Korne (eds.), *Standardizing Minority Languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*. Routledge.
+
+Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Basque Speaker"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in 
+
+Costa et al., *Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century*. 
 
 ## Decolonizing Iñupiaq Language Curricula (Guest: Annauk Denise Aulin)
 
