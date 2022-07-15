@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                             
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                               
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -195,9 +195,7 @@ Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron, editors (2018). *Pan
 
 Mufwene, Salikoko S. (2010). ["The Role of Mother-Tongue Schooling in Eradicating Poverty: A Response to *Language and Poverty.*"](https://www.jstor.org/stable/40961723#metadata_info_tab_contents) *Language* 86(4): 910–932.
 
-[Mufwene, Salikoko (2021). “Linguistic Diversity, Formal Education and Economic Development”](https://www.researchgate.net/publication/325695763_Linguistic_Diversity_Formal_Education_and_Economic_Development_The_Sub-Saharan_African_Chicken-and-Egg_Dilemma)
-
-[Peck, Raoul (2021). *Exterminate All the Brutes*](https://mit.kanopy.com/video/exterminate-all-brutes)
+Peck, Raoul, director (2021). [*Exterminate All the Brutes*](https://www.kanopy.com/en/product/11265068?vp=mit)*.* Home Box Office. 3 hr 58 min.
 
 [Philipson, Robert, and Tove Skutnabb-Kangas (2017). *Language Rights. Volume 1: Principles, Enactment, Application*](http://mit.worldcat.org/oclc/1110934950)
 
