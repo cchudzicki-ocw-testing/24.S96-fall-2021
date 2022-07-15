@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                     
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                      
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -153,7 +153,7 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 ## Language and Development (Guest: Dominique Dupuy, Ambassador, Haiti's Permanent Delegation at UNESCO)
 
-[2021 speech by Dominique Dupuy (YouTube)](https://www.youtube.com/watch?v=vJ2VlrRRqr0&t=5s), on the importance of mother tongues for development
+[2021 speech by Ambassador Dupuy (YouTube)](https://www.youtube.com/watch?v=vJ2VlrRRqr0&t=5s) on the importance of mother tongues for development
 
 ## General Bibliography
 
@@ -177,10 +177,6 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 [Dana, Carol, Margo Lukens, and Conor Quinn (2021) *Still they Remember Me*](http://mit.worldcat.org/oclc/1235901889)
 
-[DeGraff, Michel (2020) “The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation”](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/)
-
-[DeGraff, Michel (2020) “Toward Racial Justice in Linguistics: The Case of Creole studies”](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf)
-
 [Erling, Elizabeth et al*.* (2022) *Multilingual Learning and Supportive Pedagogies in Sub-Saharan Africa*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935165877706761)
 
 [Hale, Ken (1992) “Endangered Languages”](https://www.jstor.org/stable/416368)
@@ -195,19 +191,11 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 [Ladefoged, Peter (1992) “Another View of Endangered Languages”](https://www-jstor-org.libproxy.mit.edu/stable/pdf/416854.pdf)
 
-[Lane, Pia, James Costa, and Haley De Korne (2018) *Standardizing minority languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*](http://mit.worldcat.org/oclc/1004673467)
-
 [Leonard, Wesley Y. (2017) “Producing Language Reclamation by Decolonizing ‘Language’”](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf)
 
 [Leonard, Wesley Y. (2021) “Centering Indigenous Ways of Knowing in Collaborative Language Work”](https://jan.ucc.nau.edu/~jar/SILL/SILL3.pdf)
 
 [Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron (2018) *Pan-Caribbean Integration beyond CARICOM*](https://www.researchgate.net/publication/323018215_Pan-Caribbean_Integration_Beyond_CARICOM)
-
-[Macedo, Donaldo (ed., 2019) *Decolonizing Foreign Language Education. The Misteaching of English and Other Colonial Languages*](https://mit.primo.exlibrisgroup.com/discovery/openurl?institution=01MIT_INST&vid=01MIT_INST:MIT&rft.mms_id=990027565530106761&u.ignore_date_coverage=true)
-
-[Matthews, Janeille Zorina, and Jewel Amoah (2019) *Securing Equality for All in the Administration of Justice. Proceedings of the Caribbean Judicial Dialogue*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)
-
-[Migge, Bettina, Isabelle Léglise, and Angela Bartens (eds., 2010) *Creoles and Education*](http://mit.worldcat.org/oclc/528665948)
 
 [Mufwene, Salikoko (2010) “Review: The Role of Mother Tongue in Eradicating Poverty. Response to Book on *Language and Poverty*”](https://www.jstor.org/stable/40961723)
 
@@ -219,9 +207,7 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 [Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908)
 
-[Reyhner and Lockard ](https://jan.ucc.nau.edu/~jar/ILR/) (2009) [*Indigenous Language Revitalization: Encouragement, Guidance, and Lessons Learned*](https://jan.ucc.nau.edu/~jar/ILR/ILRbook.pdf)
-
-[Rickford, John, and Sharese King (2016) “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
+[Rickford, John R., and Sharese King (2016) “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
 
 [Roche, Gerald (2019) “Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074)
 
