@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                           
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                            
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -187,11 +187,11 @@ Kelley, Tracy (2020). [*Kun8seeh : An Online Approach to Teaching and Learning C
 
 Ladefoged, Peter (1992). [“Another View of Endangered Languages.”](https://www.jstor.org/stable/416854#metadata_info_tab_contents) *Language* 68(4): 809–811.
 
-[Leonard, Wesley Y. (2017). “Producing Language Reclamation by Decolonizing ‘Language’”](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf)
+Leonard, Wesley Y. (2017). ["Producing Language Reclamation by Decolonising 'Language'" (PDF)](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf) in Wesley Y. Leonard &and Haley De Korne (eds.), *Language Documentation and Description* 14: 15–36. EL Publishing. ISSN: 1740-6234
 
-[Leonard, Wesley Y. (2021). “Centering Indigenous Ways of Knowing in Collaborative Language Work”](https://jan.ucc.nau.edu/~jar/SILL/SILL3.pdf)
+Leonard, Wesley Y. (2021). [“Centering Indigenous Ways of Knowing in Collaborative Language Work" (PDF)](https://jan.ucc.nau.edu/~jar/SILL/SILL3.pdf) in Lisa Crowshoe, Inge Genee, Mahaliah Peddle, Joslin Smith, and Conor Snoek (eds.), *Sustaining Indigenous Languages: Connecting Communities, Teachers, and Scholars*. Northern Arizona University. ISBN: 9780967055497
 
-[Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron (2018). *Pan-Caribbean Integration beyond CARICOM*](https://www.researchgate.net/publication/323018215_Pan-Caribbean_Integration_Beyond_CARICOM)
+Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron, editors (2018). *Pan-Caribbean Integration beyond CARICOM.* Routledge. ISBN: 9781032095936
 
 [Mufwene, Salikoko (2010). “Review: The Role of Mother Tongue in Eradicating Poverty. Response to Book on *Language and Poverty*”](https://www.jstor.org/stable/40961723)
 
