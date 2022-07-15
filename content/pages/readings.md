@@ -12,7 +12,7 @@ DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creol
 
 DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
 
 DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
 
@@ -22,7 +22,7 @@ Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educa
 
 ## Language and Politics in the Caribbean
 
-Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak.
+Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak. ISBN: 9780946918270
 
 ## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
 
@@ -60,7 +60,7 @@ Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identit
 
 Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insights from the Seychelles" (PDF)](https://www.um.edu.mt/library/oar/bitstream/123456789/56498/1/SST-3-1-5-Choppy.pdf). *Small States & Territories* 3(1): 57–70. 
 
-Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge.  
+Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge. ISBN: 9780367463533
 
 Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
 
@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour               
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                 
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -81,7 +81,7 @@ Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Intr
 
 ## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Perreira)
 
-Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press.
+Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
 
 Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
 
@@ -95,7 +95,7 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 
 Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
 
-Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](file:///C:/Users/Peter%20Chipman/Downloads/BoysWillBeBoysbyCarpenterandDevonish.pdf) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies.
+Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](file:///C:/Users/Peter%20Chipman/Downloads/BoysWillBeBoysbyCarpenterandDevonish.pdf) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies. ISBN: 9789768125927
 
 Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
@@ -109,18 +109,17 @@ Little, Carol Rose, Juan Jesús Vázquez Álvarez, Jessica Coon, Nicolás Arcos 
 
 ## Standardization Processes for Minoritized Languages (Guest: William Scott)
 
-Einar Haugen (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable/670407#metadata_info_tab_contents) *American Anthropologist* New Series 68(4): 922–935.
+Costa, James, Haley De Korne, and Pia Lane (2017). ["Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae) in Pia Lane, James Costa, Haley De Korne (eds.), *Standardizing Minority Languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*. Routledge. ISBN: 9781315647722
 
-Costa, James, Haley De Korne, and Pia Lane (2017). ["Standardizing Minority Languages: Reinventing Peripheral](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae)   
-[Languages in the 21st Century"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae) in Pia Lane, James Costa, Haley De Korne (eds.), *Standardizing Minority Languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*. Routledge.
+Haugen, Einar (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable/670407#metadata_info_tab_contents) *American Anthropologist* New Series 68(4): 922–935.
 
-Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Basque Speaker"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in Costa et al., *Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century*.
+Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Basque Speaker"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in Costa et al., *Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century*. Routledge. ISBN: 9781315647722
 
 ## Decolonizing Iñupiaq Language Curricula (Guest: Annauk Denise Aulin)
 
-[Olin, Annauk](https://doyonfoundation.wordpress.com/) (2021) [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our Children in Iñupiaq.  MIT Master’s Thesis*](https://canvas.mit.edu/courses/10950/files/1648464?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648464/download?download_frd=1)
+Chacaby, Maya (2011). [*Kipimoojikewin: Articulating Anishinaabe Pedagogy through Anishinaabemowin (Ojibwe Language) Revitalization*](https://tspace.library.utoronto.ca/handle/1807/30080)*.* Master's thesis, University of Toronto.
 
-[Chacaby, Maya (2011) *Kipimoojikewin: Articulating Anishinaabe Pedagogy through Anishinaabemowin (Ojibwe Language) Revitalization*](https://hdl.handle.net/1807/30080)
+Olin, Annauk (2021). [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our Children in Iñupiaq*](https://dspace.mit.edu/handle/1721.1/139508)*.* Master’s thesis, MIT.
 
 ## Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages. Case studies from Ireland and New Zealand (Guest: Kevin Scannell)
 
