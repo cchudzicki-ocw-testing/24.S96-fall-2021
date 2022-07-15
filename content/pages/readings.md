@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                  
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                   
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -129,23 +129,19 @@ Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resour
 
 ## Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland (Guest: Viveka Velupillai)
 
-[Da Burn —  about the history of Shaetlan](https://youtu.be/P5O6eRJtv8E)
+I Hear Dee (group promoting public awareness of Shaetlan): [Instagram](http://instagram.com/iheardee) or [Facebook](https://www.facebook.com/iheardee)
 
-[Haar Rolling over Uradale — about language endangerment and revival](https://youtu.be/55jbb4iOy5Q)
+Uradale (video channel) (2021). ["Da Burn" (YouTube)](https://www.youtube.com/watch?v=P5O6eRJtv8E) —about the history of Shaetlan
 
-Loops on wires
+Uradale (video channel) (2021). ["Haar Rolling in over Uradale" (YouTube)](https://www.youtube.com/watch?v=55jbb4iOy5Q) —about language endangerment and revival
 
-[Musings around Eddie's Noost](https://www.moderdy.org/post/musings-around-eddie-s-noost) ([https://www.moderdy.org/post/musings-around-eddie-s-noost](https://www.moderdy.org/post/musings-around-eddie-s-noost (Links)
+Velupillai, Viveka (2020). "Loops on Wires: Knitting in Shetland Dialect." *The Knitter Magazine* 155: 46–48. 
 
-I Hear Dee: [Instagram](http://instagram.com/iheardee) [@iheardee](https://github.com/iheardee) or [Facebook](https://www.facebook.com/iheardee)
-
-[A Grammar of Shætlan—Pre-oil and Contemporary (one-page project description)](https://canvas.mit.edu/courses/10950/files/1648485?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648485/download?download_frd=1)
+Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648485/download?download_frd=1)
 
 ## Cabo Verdean in Education: Access, Equity, and a Basic Human Right (Guests: Marlyse Baptista and Abel Djassi Amado)
 
-Baptista, Marlyse, and Inês Brito;  (2010) “Cape Verdean in Education: A Linguistic and Human Right” pages 273–296 in 
-
-[*Creoles in Education: An Appraisal of Current Programs and Projects*](https://canvas.mit.edu/courses/10950/files/1648501?wrap=1) [*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
+Baptista, Marlyse, and Inês Brito (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586[*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
 
 ## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
