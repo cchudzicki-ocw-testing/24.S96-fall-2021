@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                    
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                     
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -153,7 +153,7 @@ Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https
 
 ## Language and Development (Guest: Dominique Dupuy, Ambassador, Haiti's Permanent Delegation at UNESCO)
 
-[https://mit-ayiti.net/diskou-dominique-dupuy-nan-unesco/](https://mit-ayiti.net/diskou-dominique-dupuy-nan-unesco/ (Links)
+[2021 speech by Dominique Dupuy (YouTube)](https://www.youtube.com/watch?v=vJ2VlrRRqr0&t=5s), on the importance of mother tongues for development
 
 ## General Bibliography
 
