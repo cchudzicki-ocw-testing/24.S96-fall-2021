@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                          
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                           
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -181,11 +181,11 @@ Harbert, Wayne, Sally McConnell-Ginet, Amanda Miller, and John Whitman, editors 
 
 Harding-Esch, Philip, and Hywel Coleman, editors (2021). [*Language and the Sustainable Development Goals* (PDF)](https://www.teachingenglish.org.uk/sites/teacheng/files/L024_EnglishforEducationSystems_DakarConferenceProceedings_Web_FINAL_April2021.pdf)*.* British Council. 
 
-Hudley, Anne Charity, Christine Mallinson, and Mary Bucholtz (2020). ["Toward Racial Justice in Linguistics: Interdisciplinary Insights into Theorizing Race in the Discipline and Diversifying the Profession."](https://muse.jhu.edu/article/775377) *Language* 96(4): e200-e235. (See also [commentaries ](https://muse.jhu.edu/issue/43394) and authors' [response to commentaries](https://muse.jhu.edu/article/775384).)
+Hudley, Anne Charity, Christine Mallinson, and Mary Bucholtz (2020). ["Toward Racial Justice in Linguistics: Interdisciplinary Insights into Theorizing Race in the Discipline and Diversifying the Profession."](https://muse.jhu.edu/article/775377) *Language* 96(4): e200–e235. (See also [commentaries ](https://muse.jhu.edu/issue/43394) and authors' [response to commentaries](https://muse.jhu.edu/article/775384).)
 
-[Kelley, Tracy (2020). *Kun8seeh : An Online Approach to Teaching and Learning Conversational Wôpanaô̂t8âôk*.](https://dspace.mit.edu/handle/1721.1/129118)
+Kelley, Tracy (2020). [*Kun8seeh : An Online Approach to Teaching and Learning Conversational Wôpanaô̂t8âôk*](https://dspace.mit.edu/handle/1721.1/129118). Master's thesis, MIT.
 
-[Ladefoged, Peter (1992). “Another View of Endangered Languages”](https://www-jstor-org.libproxy.mit.edu/stable/pdf/416854.pdf)
+Ladefoged, Peter (1992). [“Another View of Endangered Languages.”](https://www.jstor.org/stable/416854#metadata_info_tab_contents) *Language* 68(4): 809–811.
 
 [Leonard, Wesley Y. (2017). “Producing Language Reclamation by Decolonizing ‘Language’”](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf)
 
