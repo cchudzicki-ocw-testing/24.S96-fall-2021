@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                   
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                    
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -145,11 +145,11 @@ Baptista, Marlyse, and Inês Brito (2010). [“Cape Verdean in Education: A Ling
 
 ## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
-Hurwitz and Kambel (2020). [Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y)
+Hurwitz, Deena R., and Ellen-Rose Kambel (2020). ["Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative."](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y) *Global Campus Human Rights Journal* 4(1): 5–24.
 
-Rutu Foundation (2021): [UN: Dutch Schools Must Welcome Mother Tongues](https://www.rutufoundation.org/un-dutch-schools-must-welcome-mother-tongues/)
+Kambel, Ellen-Rose, and Emmanuelle Le Pichon (2021): ["Schools Join the Language Friendly School Network to Support Students’ Identities."](https://www.schooleducationgateway.eu/en/pub/latest/news/language-friendly-schools.htm) SchoolEducationGateway.eu.
 
-Kambel and Le Pichon (2021): [Schools Join the Language Friendly School Network to Support Students’ Identities](https://www.schooleducationgateway.eu/en/pub/latest/news/language-friendly-schools.htm)
+Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https://www.rutufoundation.org/un-dutch-schools-must-welcome-mother-tongues/) RutuFoundation.org.
 
 ## Language and Development (Guest: Dominique Dupuy, Ambassador, Haiti's Permanent Delegation at UNESCO)
 
