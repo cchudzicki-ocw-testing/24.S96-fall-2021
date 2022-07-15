@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                         
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                          
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -175,49 +175,47 @@ Croidheain, Caoimhghin (2016). *Language from Below: Ideology and Power in 20th-
 
 Dana, Carol A., Margo Lukens, and Conor M. Quinn (2021). *Still they Remember Me.* University of Massachusetts Press. ISBN: 9781625345790
 
-[Erling, Elizabeth et al*.* (2022) *Multilingual Learning and Supportive Pedagogies in Sub-Saharan Africa*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935165877706761)
+Hale, Ken (1992). [“Endangered Languages: On Endangered Languages and the Safeguarding of Diversity.”](https://www.jstor.org/stable/416368#metadata_info_tab_contents) *Language* 68(1): 1–42.
 
-[Hale, Ken (1992) “Endangered Languages”](https://www.jstor.org/stable/416368)
+Harbert, Wayne, Sally McConnell-Ginet, Amanda Miller, and John Whitman, editors (2009). *Language and Poverty.* Multilingual Matters. ISBN: 9781847691187
 
-[Harbert, Wayne et al. (2009) *Language and Poverty*](http://mit.worldcat.org/oclc/303920477)
+Harding-Esch, Philip, and Hywel Coleman, editors (2021). [*Language and the Sustainable Development Goals* (PDF)](https://www.teachingenglish.org.uk/sites/teacheng/files/L024_EnglishforEducationSystems_DakarConferenceProceedings_Web_FINAL_April2021.pdf)*.* British Council. 
 
-[Harding-Esch, Philip, and Hywel Coleman (2021) *Language and the Sustainable Development Goals*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/jp08pj/alma990033234550106761)
+Hudley, Anne Charity, Christine Mallinson, and Mary Bucholtz (2020). ["Toward Racial Justice in Linguistics: Interdisciplinary Insights into Theorizing Race in the Discipline and Diversifying the Profession."](https://muse.jhu.edu/article/775377) *Language* 96(4): e200-e235. (See also [commentaries ](https://muse.jhu.edu/issue/43394) and authors' [response to commentaries](https://muse.jhu.edu/article/775384).)
 
-[Hudley, Anne Charity, Christine Mallinson, and Mary Bucholtz (2020) "Toward Racial Justice in Linguistics: Interdisciplinary Insights into Theorizing Race in the Discipline and Diversifying the Profession"](https://muse.jhu.edu/article/775377) with [commentaries ](https://muse.jhu.edu/issue/43394) and authors' [response to commentaries](https://muse.jhu.edu/article/775384)
+[Kelley, Tracy (2020). *Kun8seeh : An Online Approach to Teaching and Learning Conversational Wôpanaô̂t8âôk*.](https://dspace.mit.edu/handle/1721.1/129118)
 
-[Kelley, Tracy (2020) *Kun8seeh : An Online Approach to Teaching and Learning Conversational Wôpanaô̂t8âôk*.](https://dspace.mit.edu/handle/1721.1/129118)
+[Ladefoged, Peter (1992). “Another View of Endangered Languages”](https://www-jstor-org.libproxy.mit.edu/stable/pdf/416854.pdf)
 
-[Ladefoged, Peter (1992) “Another View of Endangered Languages”](https://www-jstor-org.libproxy.mit.edu/stable/pdf/416854.pdf)
+[Leonard, Wesley Y. (2017). “Producing Language Reclamation by Decolonizing ‘Language’”](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf)
 
-[Leonard, Wesley Y. (2017) “Producing Language Reclamation by Decolonizing ‘Language’”](http://www.elpublishing.org/docs/1/14/ldd14_02.pdf)
+[Leonard, Wesley Y. (2021). “Centering Indigenous Ways of Knowing in Collaborative Language Work”](https://jan.ucc.nau.edu/~jar/SILL/SILL3.pdf)
 
-[Leonard, Wesley Y. (2021) “Centering Indigenous Ways of Knowing in Collaborative Language Work”](https://jan.ucc.nau.edu/~jar/SILL/SILL3.pdf)
+[Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron (2018). *Pan-Caribbean Integration beyond CARICOM*](https://www.researchgate.net/publication/323018215_Pan-Caribbean_Integration_Beyond_CARICOM)
 
-[Lewis, Patsy, Terri-Ann Gilbert-Roberts, and Jessica Byron (2018) *Pan-Caribbean Integration beyond CARICOM*](https://www.researchgate.net/publication/323018215_Pan-Caribbean_Integration_Beyond_CARICOM)
+[Mufwene, Salikoko (2010). “Review: The Role of Mother Tongue in Eradicating Poverty. Response to Book on *Language and Poverty*”](https://www.jstor.org/stable/40961723)
 
-[Mufwene, Salikoko (2010) “Review: The Role of Mother Tongue in Eradicating Poverty. Response to Book on *Language and Poverty*”](https://www.jstor.org/stable/40961723)
+[Mufwene, Salikoko (2021). “Linguistic Diversity, Formal Education and Economic Development”](https://www.researchgate.net/publication/325695763_Linguistic_Diversity_Formal_Education_and_Economic_Development_The_Sub-Saharan_African_Chicken-and-Egg_Dilemma)
 
-[Mufwene, Salikoko (2021) “Linguistic Diversity, Formal Education and Economic Development”](https://www.researchgate.net/publication/325695763_Linguistic_Diversity_Formal_Education_and_Economic_Development_The_Sub-Saharan_African_Chicken-and-Egg_Dilemma)
+[Peck, Raoul (2021). *Exterminate All the Brutes*](https://mit.kanopy.com/video/exterminate-all-brutes)
 
-[Peck, Raoul (2021) *Exterminate All the Brutes*](https://mit.kanopy.com/video/exterminate-all-brutes)
+[Philipson, Robert, and Tove Skutnabb-Kangas (2017). *Language Rights. Volume 1: Principles, Enactment, Application*](http://mit.worldcat.org/oclc/1110934950)
 
-[Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 1: Principles, Enactment, Application*](http://mit.worldcat.org/oclc/1110934950)
+[Philipson, Robert, and Tove Skutnabb-Kangas (2017). *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908)
 
-[Philipson, Robert, and Tove Skutnabb-Kangas (2017) *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908)
+[Rickford, John R., and Sharese King (2016). “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
 
-[Rickford, John R., and Sharese King (2016) “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
+[Roche, Gerald (2019). “Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074)
 
-[Roche, Gerald (2019) “Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074)
-
-[Treuer, Anton (2019) *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds*](http://mit.worldcat.org/oclc/1129397526)
+[Treuer, Anton (2019). *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds*](http://mit.worldcat.org/oclc/1129397526)
 
 [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
 
-[*United Nations (1996) Universal Declaration of Linguistic Rights*](https://en.wikipedia.org/wiki/Universal_Declaration_of_Linguistic_Rights)
+[*United Nations (1996). Universal Declaration of Linguistic Rights*](https://en.wikipedia.org/wiki/Universal_Declaration_of_Linguistic_Rights)
 
-[Wa Thiong'o, Ngūgī (1986) *Decolonising the Mind: The Politics of Language in African Literature*](http://mit.worldcat.org/oclc/462127849)
+[Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in African Literature*](http://mit.worldcat.org/oclc/462127849)
 
-[William, Frederick (1970) *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)
+[William, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)
 
 ## Online Resources:
 
