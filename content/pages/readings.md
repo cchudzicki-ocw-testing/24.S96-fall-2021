@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                       
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                         
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -167,13 +167,13 @@ Baker-Bell, April (2020). *Linguistic Justice: Black Language, Literacy, Identit
 
 Battiste, Marie (2013). *Decolonizing Education: Nourishing the Learning Spirit.* University of Chicago Press. ISBN: 9781895830774
 
-[Baugh, John (2018) *Linguistics in Pursuit of Justice*](http://mit.worldcat.org/oclc/1001905697)
+Baugh, John (2018). *Linguistics in Pursuit of Justice.* Cambridge University Press. ISBN: 9781316597750
 
-[Brock-Utne, Birgit (2002) *Whose Education for All? The Recolonization of the African Mind*](http://mit.worldcat.org/oclc/52521682)
+Brock-Utne, Birgit (2002). *Whose Education for All? The Recolonization of the African Mind.* Routledge. ISBN: 9780815334781
 
-[Croidheain, Caoimhghin (2016) *Language from Below: Ideology and Power in 20th Century Ireland*](http://mit.worldcat.org/oclc/79587668)
+Croidheain, Caoimhghin (2016). *Language from Below: Ideology and Power in 20th-Century Ireland.* Peter Lang. ISBN: 9783039101719
 
-[Dana, Carol, Margo Lukens, and Conor Quinn (2021) *Still they Remember Me*](http://mit.worldcat.org/oclc/1235901889)
+Dana, Carol A., Margo Lukens, and Conor M. Quinn (2021). *Still they Remember Me.* University of Massachusetts Press. ISBN: 9781625345790
 
 [Erling, Elizabeth et al*.* (2022) *Multilingual Learning and Supportive Pedagogies in Sub-Saharan Africa*](https://mit.primo.exlibrisgroup.com/permalink/01MIT_INST/ejdckj/alma9935165877706761)
 
