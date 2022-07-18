@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                            
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                             
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -79,7 +79,7 @@ soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kre
 
 Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.
 
-## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Perreira)
+## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Ferreira)
 
 Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
 
@@ -211,28 +211,28 @@ Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in
 
 [Williams, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)*.* Markham Publishing. ISBN: 9780127548500.
 
-Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/) 
+Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
 
 (website on native cultures and languages of the North American Great Lakes area).
 
 ## Online Resources:
 
-[*Abaim*](https://www.abaim.mu/) 
+[*Abaim*](https://www.abaim.mu/)
 
 (group promoting Kreol Morisien)
 
-[*Language Friendly School*](https://languagefriendlyschool.org/) 
+[*Language Friendly School*](https://languagefriendlyschool.org/)
 
 (group promoting linguistically inclusive education worldwide)
 
-[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html) 
+[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html)
 
 (resources from Northern Arizona University)
 
-[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/) 
+[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/)
 
 (personal website)
 
-[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics) 
+[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics)
 
 (update in progress)
