@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                             
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                              
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -91,7 +91,7 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 
 [Patois speakers share their knowledge (YouTube)](https://youtu.be/x2_zlqN6cHI%C2%A0)
 
-## Language Rights and Justice for All in the Caribbean (Guests: Hubert Devonish and team)
+## Language Rights and Justice for All in the Caribbean (Guests: Kadian Walters, Celia Blake, and Hubert Devonish)
 
 Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
 
