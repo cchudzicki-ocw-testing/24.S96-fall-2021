@@ -6,31 +6,25 @@ draft: false
 title: Readings and Viewings
 uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
-## Language and Education in Haiti
+## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
 
 DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
 DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
-
-DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
-
-DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages" (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
-
-Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148. 
-
-## Language and Politics in the Caribbean
-
-Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak. ISBN: 9780946918270
-
-## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
+DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697
 
 DeGraff, MIchel (2020). ["The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation."](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/) *JOPOL* 3.
 
 DeGraff, Michel (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
+DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+
+DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
+
+DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages" (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
+
+Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148.
 
 ## Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
@@ -70,7 +64,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                              
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                               
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -96,6 +90,8 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
 
 Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](file:///C:/Users/Peter%20Chipman/Downloads/BoysWillBeBoysbyCarpenterandDevonish.pdf) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies. ISBN: 9789768125927
+
+Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak. ISBN: 9780946918270
 
 Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
@@ -211,28 +207,28 @@ Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in
 
 [Williams, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)*.* Markham Publishing. ISBN: 9780127548500.
 
-Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
+Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/) 
 
 (website on native cultures and languages of the North American Great Lakes area).
 
 ## Online Resources:
 
-[*Abaim*](https://www.abaim.mu/)
+[*Abaim*](https://www.abaim.mu/) 
 
 (group promoting Kreol Morisien)
 
-[*Language Friendly School*](https://languagefriendlyschool.org/)
+[*Language Friendly School*](https://languagefriendlyschool.org/) 
 
 (group promoting linguistically inclusive education worldwide)
 
-[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html)
+[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html) 
 
 (resources from Northern Arizona University)
 
-[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/)
+[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/) 
 
 (personal website)
 
-[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics)
+[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics) 
 
 (update in progress)
