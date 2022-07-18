@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                       
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                        
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -205,9 +205,7 @@ Skutnabb-Kangas, Tove, and Robert Phillipson (2017). *Language Rights*, volumes 
 
 Treuer, Anton (2019). *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds.* Minnesota Historical Society Press. ISBN: 9781681341545.
 
-United Nations (1996).
-
-["Universal Declaration of Linguistic Rights" (PDF)](https://unesdoc.unesco.org/ark:/48223/pf0000104267).
+United Nations (1996).  ["Universal Declaration of Linguistic Rights" (PDF)](https://unesdoc.unesco.org/ark:/48223/pf0000104267).
 
 Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in African Literature.* James Curry / Heinemann. ISBN: 9780852555019.
 
@@ -216,8 +214,6 @@ Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in
 Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/) 
 
 (website on native cultures and languages of the Great Lakes area).
-
- 
 
 ## Online Resources:
 
