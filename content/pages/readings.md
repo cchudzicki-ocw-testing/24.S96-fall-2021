@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                    
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -199,19 +199,23 @@ Peck, Raoul, director (2021). [*Exterminate All the Brutes*](https://www.kanopy.
 
 Rickford, John R., and Sharese King (2016). [“Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond” (PDF)](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf). Language 92(4): 948–988.
 
+Roche, Gerald (2019). [“Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages.”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074) *Patterns of Prejudice* 53(5): 487–514.
+
 Skutnabb-Kangas, Tove, and Robert Phillipson (2017). *Language Rights*, volumes 1 ("Principles, Enactment, Application") and 2 ("Language Policy in Education: Violations or Rights for All")*.* Routledge. ISBN: 9780415740821.
 
-[Roche, Gerald (2019). “Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074)
+Treuer, Anton (2019). *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds.* Minnesota Historical Society Press. ISBN: 9781681341545.
 
-[Treuer, Anton (2019). *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds*](http://mit.worldcat.org/oclc/1129397526)
+United Nations (1996). 
 
-[*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
-
-[*United Nations (1996). Universal Declaration of Linguistic Rights*](https://en.wikipedia.org/wiki/Universal_Declaration_of_Linguistic_Rights)
+["Universal Declaration of Linguistic Rights" (PDF)](https://unesdoc.unesco.org/ark:/48223/pf0000104267).
 
 [Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in African Literature*](http://mit.worldcat.org/oclc/462127849)
 
 [William, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)
+
+Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/) 
+
+(website on native cultures and languages of the Great Lakes area).
 
 ## Online Resources:
 
