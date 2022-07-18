@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                        
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                         
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -217,14 +217,22 @@ Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and 
 
 ## Online Resources:
 
-[*Kreol Moris*](https://www.abaim.mu/)
+[*Abaim*](https://www.abaim.mu/) 
 
-[*Language Friendly School*](https://languagefriendlyschool.org/)
+(group promoting Kreol Morisien)
 
-*Shaetlan* on [Instagram](http://instagram.com/iheardee) and [Facebook](https://www.facebook.com/iheardee)
+[*Language Friendly School*](https://languagefriendlyschool.org/) 
 
-[*Teaching Indigenous Languages*](https://jan.ucc.nau.edu/~jar/books.html)
+(group promoting linguistically inclusive education worldwide)
 
-[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/)
+[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html) 
 
-[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics)
+(resources from Northern Arizona University) 
+
+[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/) 
+
+(personal website)
+
+[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics) 
+
+(update in progress)
