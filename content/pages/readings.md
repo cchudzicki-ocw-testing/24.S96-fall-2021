@@ -64,7 +64,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                               
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -207,7 +207,7 @@ Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in
 
 [Williams, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)*.* Markham Publishing. ISBN: 9780127548500.
 
-Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/) 
+Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
 
 (website on native cultures and languages of the North American Great Lakes area).
 
