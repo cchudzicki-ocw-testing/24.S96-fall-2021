@@ -40,7 +40,7 @@ DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)]
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
-Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 233: 97–118. 
+Cerat, Marie Lily (2015). ["The Haitian Language: Defying Odds and Opening Possibilities."](https://www.degruyter.com/document/doi/10.1515/ijsl-2014-0054/html?lang=en) *International Journal of the Sociology of Language* 233: 97–118. 
 
 Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1): 92–125.
 
@@ -64,7 +64,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                     
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                      
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
