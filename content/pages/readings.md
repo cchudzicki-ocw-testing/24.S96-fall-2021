@@ -64,12 +64,12 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                  
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                   
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
 
-[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648293/download?download_frd=1)Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
+Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
 
 Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.
 
