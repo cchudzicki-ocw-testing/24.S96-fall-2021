@@ -64,7 +64,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                   
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                    
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -201,32 +201,22 @@ Skutnabb-Kangas, Tove, and Robert Phillipson (2017). *Language Rights*, volumes 
 
 Treuer, Anton (2019). *The Language Warrior’s Manifesto: How to Keep Our Languages Alive No Matter the Odds.* Minnesota Historical Society Press. ISBN: 9781681341545.
 
-United Nations (1996).  ["Universal Declaration of Linguistic Rights" (PDF)](https://unesdoc.unesco.org/ark:/48223/pf0000104267).
+United Nations (1996). ["Universal Declaration of Linguistic Rights" (PDF)](https://unesdoc.unesco.org/ark:/48223/pf0000104267).
 
 Wa Thiong'o, Ngūgī (1986). *Decolonising the Mind: The Politics of Language in African Literature.* James Curry / Heinemann. ISBN: 9780852555019.
 
-[Williams, Frederick (1970). *Language and Poverty: Perspectives on a Theme*](https://www-sciencedirect-com.libproxy.mit.edu/book/9780127548500/language-and-poverty)*.* Markham Publishing. ISBN: 9780127548500.
+Williams, Frederick (1970). *Language and Poverty: Perspectives on a Theme.* Markham Publishing. ISBN: 9780127548500.
 
-Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)
-
-(website on native cultures and languages of the North American Great Lakes area).
+Wisconsin Educational Communications Board, [*The Ways: Stories on Culture and Language from Native Communities Around the Central Great Lakes*](https://theways.org/)(website on native cultures and languages of the North American Great Lakes area).
 
 ## Online Resources:
 
 [*Abaim*](https://www.abaim.mu/) (group promoting Kreol Morisien)
 
-[*Language Friendly School*](https://languagefriendlyschool.org/)
+[*Language Friendly School*](https://languagefriendlyschool.org/)(group promoting linguistically inclusive education worldwide)
 
-(group promoting linguistically inclusive education worldwide)
+[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html)(resources from Northern Arizona University)
 
-[*Teaching Indigenous Languages Books*](https://jan.ucc.nau.edu/~jar/books.html)
+[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/)(personal website)
 
-(resources from Northern Arizona University)
-
-[*Tove Skutnabb-Kangas*](http://www.tove-skutnabb-kangas.org/)
-
-(personal website)
-
-[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics)
-
-(update in progress)
+[*UNESCO Atlas of the World’s Languages in Danger*](http://www.unesco.org/languages-atlas/index.php?hl=en&page=statistics)(update in progress)
