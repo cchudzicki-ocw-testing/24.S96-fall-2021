@@ -70,7 +70,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                               
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -197,11 +197,9 @@ Mufwene, Salikoko S. (2010). ["The Role of Mother-Tongue Schooling in Eradicatin
 
 Peck, Raoul, director (2021). [*Exterminate All the Brutes*](https://www.kanopy.com/en/product/11265068?vp=mit)*.* Home Box Office. 3 hr 58 min.
 
-[Philipson, Robert, and Tove Skutnabb-Kangas (2017). *Language Rights. Volume 1: Principles, Enactment, Application*](http://mit.worldcat.org/oclc/1110934950)
+Rickford, John R., and Sharese King (2016). [“Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond” (PDF)](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf). Language 92(4): 948–988.
 
-[Philipson, Robert, and Tove Skutnabb-Kangas (2017). *Language Rights. Volume 2: Language Policy in Education: Violations or Rights for All*](http://mit.worldcat.org/oclc/1110908908)
-
-[Rickford, John R., and Sharese King (2016). “Language and Linguistics on Trial: Hearing Rachel Jeantel (and Other Vernacular Speakers) in the Courtroom and Beyond”](https://www.linguisticsociety.org/sites/default/files/Rickford_92_4.pdf)
+Skutnabb-Kangas, Tove, and Robert Phillipson (2017). *Language Rights*, volumes 1 ("Principles, Enactment, Application") and 2 ("Language Policy in Education: Violations or Rights for All")*.* Routledge. ISBN: 9780415740821.
 
 [Roche, Gerald (2019). “Articulating Language Oppression: Colonialism, Coloniality, and the Erasure of Tibet’s Minority Languages”](https://www.tandfonline.com/doi/full/10.1080/0031322X.2019.1662074)
 
