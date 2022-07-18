@@ -18,7 +18,7 @@ DeGraff, MIchel (2020). ["The Politics of Education in Post-colonies: Kreyòl in
 
 DeGraff, Michel (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1619396/download?download_frd=1)
+DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
 
 DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
 
@@ -40,9 +40,9 @@ DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)]
 
 ## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
 
-Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 233: 97–118 
+Cerat, Marie Lily (2015). "The Haitian Language: Defying Odds and Opening Possibilities." *International Journal of the Sociology of Language* 233: 97–118. 
 
-Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1): 92–125.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661954/download?download_frd=1)[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1661972/download?download_frd=1)
+Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1): 92–125.
 
 ### Additional Resources:
 
@@ -56,15 +56,15 @@ Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insight
 
 Deutschmann, Mats, and Justin Zelime (2021). "Researching Kreol Seselwa and Its Role in Education in the Pursuit of Educational Equity in the Seychelles" in Elizabeth J. Erling, John Clegg, et al. (eds.), *Multilingual Learning and Language Supportive Pedagogies in Sub-Saharan Africa*. Routledge. ISBN: 9780367463533
 
-Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648278/download?download_frd=1)
+Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact over Time: A Case of Successful Educational Reform."](https://www.jstor.org/stable/3698510#metadata_info_tab_contents) *Curriculum Inquiry* 35(3): 261–293.
 
-Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1656038/download?download_frd=1)
+Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.
 
 Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation, UCL Institute of Education*.*
 
 ### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                 
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                  
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
@@ -95,7 +95,7 @@ Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Carib
 
 Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
-## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1647598/download?download_frd=1)
+## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)
 
 González, Jaime Pérez (2021). ["Ethical Principles in Linguistic Fieldwork Methodologies—According to Whom?" (PDF)](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/237ce32c-6246-46f2-bb9c-5e4e967ad22a/content) in Emiliana Cruz Cruz (ed.), *Theoretical Reflections around the Role of Fieldwork in Linguistics and Linguistic Anthropology: Contributions of Indigenous Researchers from Southern Mexico* (Language Documentation & Conservation Special Publication No. 23), 131–152.
 
@@ -121,7 +121,7 @@ Olin, Annauk (2021). [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our C
 
 Galla, Candace Kaleimamoowahinekapu (2009). [“Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains”](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf) in Jon Reyhner and Louise Lockard (eds.), *Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned,* 167–182. Northern Arizona University. ISBN: 096705544X
 
-Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions.”](https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=INNZ7116899490002837&vid=NLNZ&search_scope=INNZ&tab=innz&lang=en_US&context=L) *MAI Review* 1.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1912678/download?download_frd=1)
+Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions.”](https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=INNZ7116899490002837&vid=NLNZ&search_scope=INNZ&tab=innz&lang=en_US&context=L) *MAI Review* 1.
 
 ## Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland (Guest: Viveka Velupillai)
 
@@ -133,11 +133,11 @@ Uradale (video channel) (2021). ["Haar Rolling in over Uradale" (YouTube)](https
 
 Velupillai, Viveka (2020). "Loops on Wires: Knitting in Shetland Dialect." *The Knitter Magazine* 155: 46–48. 
 
-Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/10950/files/1648485/download?download_frd=1)
+Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.
 
 ## Cabo Verdean in Education: Access, Equity, and a Basic Human Right (Guests: Marlyse Baptista and Abel Djassi Amado)
 
-Baptista, Marlyse, Inês Brito, and Saidu Bangura (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586[*![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)*](https://canvas.mit.edu/courses/10950/files/1648501/download?download_frd=1)
+Baptista, Marlyse, Inês Brito, and Saidu Bangura (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586
 
 ## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
