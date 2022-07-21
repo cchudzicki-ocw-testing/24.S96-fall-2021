@@ -8,7 +8,7 @@ leftnav:
   url: /pages/calendar
   weight: 20
 - identifier: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
-  name: Readings and Viewings
+  name: Assigned Readings and Viewings
   url: /pages/readings
   weight: 30
 - identifier: fe34f782-0d10-434d-a2b2-383b9e8d2770
