@@ -14,7 +14,7 @@ uid: 9de45d59-4a97-46d3-a574-6186ff07631c
 
 None
 
-## Course Description
+## Motivation for the Course
 
 I am very excited about this new seminar because it brings together three topics that I am passionate about and that I think should be of utmost importance, not only to linguists, but also to the world at large. These three topics are linguistics, education, and social justice.
 
@@ -39,6 +39,8 @@ Is it our responsibility, as linguists, to analyze and try to narrow this three-
 Some of the reasons for the sort of linguistic discrimination mentioned in (2) have to do with colonial history and white supremacy writ large.  A full analysis of (2) would take us too far afield as it would require forays into history, sociology, political science, critical race theory, etc. 
 
 Our goal this semester will be more modest and more in line with our discipline, though we will certainly need to keep the above disciplines in mind throughout our discussions.  At the very least, we need to unveil the often hidden role of ideology and various “normative gazes” in deciding what sorts of questions, in the first place, are even worth asking among linguists.
+
+## Our Approach to the Topic
 
 In this seminar as a “sandbox”, we will look at efforts by linguists and educators making their research more inclusive, accessible and hospitable, and trying to reduce that three-way gap between: (i) linguists’ egalitarian ideals; (ii) linguistic-discrimination practices in various communities worldwide; and (iii) the (perceived) elitist attitudes of academic linguistics. 
 
