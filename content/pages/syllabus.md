@@ -22,9 +22,9 @@ So I’m hoping that you too will be interested, as I am planning much of this s
 
 Our point of departure will be these three related observations:
 
-- We linguists take it for granted that all languages, including languages in the Global South, are worthy of study in our investigation of Universal Grammar.
-- Yet some 40% of children in the world are prevented from studying in, and valorizing, their home languages—including some of these very languages that we linguists study with such fondness. (Incidentally UNESCO estimates that 43% of the world’s ~6,000 languages are endangered.)
-- And so much of our research in linguistics and the benefits thereof remain inaccessible to the bulk of the very speech communities whose languages we study.
+1. We linguists take it for granted that all languages, including languages in the Global South, are worthy of study in our investigation of Universal Grammar.
+2. Yet some 40% of children in the world are prevented from studying in, and valorizing, their home languages—including some of these very languages that we linguists study with such fondness. (Incidentally UNESCO estimates that 43% of the world’s ~6,000 languages are endangered.)
+3. And so much of our research in linguistics and the benefits thereof remain inaccessible to the bulk of the very speech communities whose languages we study.
 
 Now consider this three-way gap between:
 
@@ -46,7 +46,13 @@ In this seminar as a “sandbox”, we will look at efforts by linguists and edu
 
 Our initial case study will be the Global South community that I’m most familiar with, namely my native Haiti—which is a rather spectacular case study whereby most Haitian children are prevented from learning academic subjects in the one language (Kreyòl) that every Haitian fluently speaks while they are forced to learn these subjects in a language (French) that most have no opportunity to learn at home. And most Haitian intellectuals, even (or especially?) some familiar with linguistics, still seem to adhere to the hegemonic belief whereby Kreyòl is “naturally inferior” to French as a language of instruction and as a language to express science, law, and most everything else—outside of popular culture artefacts like songs and theater.  This is the sort of hegemonic belief and practices that I myself grew up with and that I’ve learned to unlearn while confronting somewhat related beliefs in certain quarters of linguistics.
 
-In terms of student participation and class requirements, my hope is that each participant will bring in a particular language or language area that instantiates community-wide linguistic discrimination—one that linguists can help solve. In the ideal scenario, these case studies will lead to specific projects that linguists can concretely contribute to.
+To stimulate and inspire discussion and projects, we will cover topics and invite speakers that engage work on linguistics for social justice in various areas of the world: Alaska, Cabo Verde, the Caribbean, Ireland, Mauritius, the Netherlands, New York, New Zealand, Seychelles, Shetland…
+
+Our starting point in the first couple of weeks is Haiti, as we look at the MIT-Haiti Initiative in the context of #BlackLivesMatter writ large.
+
+## Student Participation and Class Requirements
+
+My hope is that each participant will bring in a particular language or language area that instantiates community-wide linguistic discrimination—one that linguists can help solve. In the ideal scenario, these case studies will lead to specific projects that linguists can concretely contribute to.
 
 Class requirements will thus include:
 
@@ -56,7 +62,3 @@ Class requirements will thus include:
 - a write-up of this presentation as a final paper—perhaps the draft of a policy paper grounded in some linguistic aspect of the relevant community.
 
 The overall goal is to have us, all together, sketch models of how linguistics can contribute to the betterment of some speech community.
-
-To stimulate and inspire discussion and projects, we will cover topics and invite speakers that engage work on linguistics for social justice in various areas of the world: Alaska, Cabo Verde, the Caribbean, Ireland, Mauritius, the Netherlands, New York, New Zealand, Seychelles, Shetland…
-
-Our starting point in the first couple of weeks is Haiti, as we look at the MIT-Haiti Initiative in the context of #BlackLivesMatter writ large.
