@@ -6,7 +6,7 @@ draft: false
 title: Assigned Readings and Viewings
 uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
-## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
+## Session 1: Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
 
 DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
@@ -26,31 +26,35 @@ DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a 
 
 Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148.
 
-## Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
+## Session 2: Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
 DeGraff, Michel (2016). ["Mother-Tongue Books in Haiti: The Power of Kreyòl in Learning to Read and in Reading to Learn" (PDF)](http://linguistics.mit.edu/wp-content/uploads/degraff_2016_mother-tongue_books_in_Haiti.pdf). *Prospects* 46: 435–464.
 
 DeGraff, Michel, and Stump, Glenda S. (2018). ["Kreyòl, Pedagogy, and Technology for Opening Up Quality Education in Haiti:  Changes in Teachers' Metalinguistic Attitudes as First Steps in a Paradigm Shift" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_and_Stump_2018_Kreyol_pedagogy_and_technology_for_education_in_Haiti.pdf). *Language* 94(2): e127–e157.
 
-### Additional Resources
+#### Additional Resources
 
 Abdul Latif Jameel World Education Lab (2020). ["The Undervalued Currency of Culture in Higher Education" (video)](https://jwel.mit.edu/undervalued-currency-culture-higher-education). Presentation of Platfòm MIT-Ayiti at MIT Open Learning, 15 October 2020.
 
 DeGraff, Michel (2021). ["#BlackLivesMatter —> #OurLanguagesMatter" (YouTube)](https://www.youtube.com/watch?v=MQZs3fD-Z4E). Lecture delivered at Concordia University, 25 February 2021.
 
-## The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space (Guests: Wynnie Lamour and Darnelle Champagne)
+## Session 3: The Right to Read and Write: Language Activism in a Diasporic Haitian Creole Space 
+
+### (Guests: Wynnie Lamour and Darnelle Champagne)
 
 Cerat, Marie Lily (2015). ["The Haitian Language: Defying Odds and Opening Possibilities."](https://www.degruyter.com/document/doi/10.1515/ijsl-2014-0054/html?lang=en) *International Journal of the Sociology of Language* 233: 97–118. 
 
 Delva, Rachèle-Jeanie (2019). ["Kreyòl Pale, Kreyòl Konprann: Haitian Identity and Creole Mother-Tongue Learning in Matènwa, Haiti."](https://www.jstor.org/stable/26790804#metadata_info_tab_contents) *The Journal of Haitian Studies* 25(1): 92–125.
 
-### Additional Resources:
+#### Additional Resources
 
 [Jaden Timoun](https://www.facebook.com/jadentimoun/videos/248563346261266) Facebook video
 
 [Jaden Timoun](https://jadentimoun.com/aboutus/) website "About" page
 
-## Seychelles' Language Policy for "Leveling the Field" (Guests: Penda Choppy, Justin Zelime, and Aneesa Vel)
+## Session 4: Seychelles' Language Policy for "Leveling the Field" 
+
+### (Guests: Penda Choppy, Justin Zelime, and Aneesa Vel)
 
 Choppy, Penda Thérésia (2020). ["From Local Creoles to Global Creoles: Insights from the Seychelles" (PDF)](https://www.um.edu.mt/library/oar/bitstream/123456789/56498/1/SST-3-1-5-Choppy.pdf). *Small States & Territories* 3(1): 57–70. 
 
@@ -62,30 +66,36 @@ Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Ling
 
 Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation, UCL Institute of Education*.*
 
-### Optional Reading (in Kreol Seselwa)
+#### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                        
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                         
 soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
-## A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius (Guest: Nicholas Natchoo)
+## Session 5: A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius
+
+### (Guest: Nicholas Natchoo)
 
 Jean-François, Emmanuel Bruno, and Rajendra Korlapu-Bungaree (2012). "The Introduction of Mauritian Kreol in the National Curriculum: Moving from Social Justice Strategy to Multilingual Education" in *From Research to Professional Practice: The Value of Reflexivity (proceedings of MA Conference 2012).* University of Brighton-Mauritius Institute of Education.
 
 Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural Education, Ethnopolitics, and Teaching Kreol Morisien*](https://www.proquest.com/docview/2491897581?pq-origsite=gscholar&fromopenview=true), chapters 0, 1, and 5. Ph.D. dissertation, University of Kansas.
 
-## Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela (Guest: Jo-Anne Ferreira)
+## Session 6: Resistance and Revitalisation of French Creole in Trinidad & Tobago and Venezuela
+
+### (Guest: Jo-Anne Ferreira)
 
 Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
 
 Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
 
-### Additional Resources
+#### Additional Resources
 
 [Patois video interviews in Trinidad](https://www.facebook.com/notes/668622467402137/)
 
 [Patois speakers share their knowledge (YouTube)](https://youtu.be/x2_zlqN6cHI%C2%A0)
 
-## Language Rights and Justice for All in the Caribbean (Guests: Kadian Walters, Celia Blake, and Hubert Devonish)
+## Session 7: Language Rights and Justice for All in the Caribbean 
+
+### (Guests: Kadian Walters, Celia Blake, and Hubert Devonish)
 
 Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
 
@@ -95,7 +105,9 @@ Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Carib
 
 Walters, Kadian (2016). ["'I Got What I Wanted, but How Did They Make Me Feel?' The Anatomy of Linguistic Discrimination in a Diglossic Situation."](https://prezi.com/th9b3nrvmmls/linguistic-discrimination/) Presentation slides from Ph.D. oral examination, University of the West Indies, 8 July 2016.
 
-## From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol (Guest: Carol Rose Little)
+## Session 8, part 1: From Definiteness to Poetry: Doing Linguistic Work with and in Ch’ol 
+
+### (Guest: Carol Rose Little)
 
 González, Jaime Pérez (2021). ["Ethical Principles in Linguistic Fieldwork Methodologies—According to Whom?" (PDF)](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/237ce32c-6246-46f2-bb9c-5e4e967ad22a/content) in Emiliana Cruz Cruz (ed.), *Theoretical Reflections around the Role of Fieldwork in Linguistics and Linguistic Anthropology: Contributions of Indigenous Researchers from Southern Mexico* (Language Documentation & Conservation Special Publication No. 23), 131–152.
 
@@ -103,7 +115,9 @@ Little, Carol Rose, Juan Jesús Vázquez Álvarez, Jessica Coon, Nicolás Arcos 
 
 [Poetry in translation (from Ch'ol to English and Spanish) by Ch'ol poet Juana Peñate Montejo](https://www.worldliteraturetoday.org/2022/march/three-poems-chiapas-juana-penate-montejo) and [an interview with Peñate](https://www.worldliteraturetoday.org/conversation-chol-poet-juana-penate-montejo-carol-rose-little-and-charlotte-friedman).
 
-## Standardization Processes for Minoritized Languages (Guest: William Scott)
+## Session 8, part 2: Standardization Processes for Minoritized Languages 
+
+### (Guest: William Scott)
 
 Costa, James, Haley De Korne, and Pia Lane (2017). ["Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-1/standardising-minority-languages-james-costa-haley-de-korne-pia-lane?context=ubx&refId=fa10278c-4d34-4856-93b2-9edaa1e45fae) in Pia Lane, James Costa, Haley De Korne (eds.), *Standardizing Minority Languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*. Routledge. ISBN: 9781315647722
 
@@ -111,19 +125,25 @@ Haugen, Einar (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable
 
 Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Basque Speaker"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in Costa et al., *Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century*. Routledge. ISBN: 9781315647722
 
-## Decolonizing Iñupiaq Language Curricula (Guest: Annauk Denise Aulin)
+## Session 9: Decolonizing Iñupiaq Language Curricula 
+
+### (Guest: Annauk Denise Aulin)
 
 Chacaby, Maya (2011). [*Kipimoojikewin: Articulating Anishinaabe Pedagogy through Anishinaabemowin (Ojibwe Language) Revitalization*](https://tspace.library.utoronto.ca/handle/1807/30080)*.* Master's thesis, University of Toronto.
 
 Olin, Annauk (2021). [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our Children in Iñupiaq*](https://dspace.mit.edu/handle/1721.1/139508)*.* Master’s thesis, MIT.
 
-## Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages. Case studies from Ireland and New Zealand (Guest: Kevin Scannell)
+## Session 10: Language from Below: Grassroots Efforts to Develop Language Technology for Minoritized Languages. Case studies from Ireland and New Zealand 
+
+### (Guest: Kevin Scannell)
 
 Galla, Candace Kaleimamoowahinekapu (2009). [“Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains”](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf) in Jon Reyhner and Louise Lockard (eds.), *Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned,* 167–182. Northern Arizona University. ISBN: 096705544X
 
 Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions.”](https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=INNZ7116899490002837&vid=NLNZ&search_scope=INNZ&tab=innz&lang=en_US&context=L) *MAI Review* 1.
 
-## Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland (Guest: Viveka Velupillai)
+## Session 11: Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland
+
+### (Guest: Viveka Velupillai)
 
 I Hear Dee (group promoting public awareness of Shaetlan): [Instagram](http://instagram.com/iheardee) or [Facebook](https://www.facebook.com/iheardee)
 
@@ -135,11 +155,15 @@ Velupillai, Viveka (2020). "Loops on Wires: Knitting in Shetland Dialect." *The 
 
 Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.
 
-## Cabo Verdean in Education: Access, Equity, and a Basic Human Right (Guests: Marlyse Baptista and Abel Djassi Amado)
+## Session 12: Cabo Verdean in Education: Access, Equity, and a Basic Human Right 
+
+### (Guests: Marlyse Baptista and Abel Djassi Amado)
 
 Baptista, Marlyse, Inês Brito, and Saidu Bangura (2010). [“Cape Verdean in Education: A Linguistic and Human Right”](https://benjamins.com/catalog/cll.36) in Bettina Migge, Isabelle Léglise, and Angela Bartens (eds.), *Creoles in Education: An Appraisal of Current Programs and Projects*, 273–296. John Benjamins. ISBN: 9789027252586
 
-## Language Friendly Schools (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
+## Session 13, part 1: Language Friendly Schools 
+
+### (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
 Hurwitz, Deena R., and Ellen-Rose Kambel (2020). ["Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative."](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y) *Global Campus Human Rights Journal* 4(1): 5–24.
 
@@ -147,6 +171,8 @@ Kambel, Ellen-Rose, and Emmanuelle Le Pichon (2021): ["Schools Join the Language
 
 Rutu Foundation (2021): ["UN: Dutch Schools Must Welcome Mother Tongues."](https://www.rutufoundation.org/un-dutch-schools-must-welcome-mother-tongues/) RutuFoundation.org.
 
-## Language and Development (Guest: Dominique Dupuy, Ambassador, Haiti's Permanent Delegation at UNESCO)
+## Session 13, part 2: Language and Development 
+
+### (Guest: Dominique Dupuy, Ambassador, Haiti's Permanent Delegation at UNESCO)
 
 [2021 speech by Ambassador Dupuy (YouTube)](https://www.youtube.com/watch?v=vJ2VlrRRqr0&t=5s) on the importance of mother tongues for development.
