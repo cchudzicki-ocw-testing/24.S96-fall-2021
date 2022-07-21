@@ -3,7 +3,7 @@ content_type: page
 description: This section lists the required and recommended readings and videos for
   24.S96.
 draft: false
-title: Readings and Viewings
+title: Assigned Readings and Viewings
 uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 ---
 ## Linguistics and (In)justice: The Case of Creole Studies from a Haitian Perspective
