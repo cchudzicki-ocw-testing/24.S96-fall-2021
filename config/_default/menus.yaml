@@ -19,3 +19,11 @@ leftnav:
   name: Assignments
   url: /pages/assignments
   weight: 50
+- identifier: fa9b4931-a66b-4b1d-a50e-f14ac336ad02
+  name: General Bibliography
+  url: /pages/general-bibliography
+  weight: 60
+- identifier: ed92c098-b1cd-49a0-8eab-f835052af2ee
+  name: Additional Resources
+  url: /pages/additional-resources
+  weight: 70
