@@ -68,8 +68,7 @@ Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialec
 
 #### Optional Reading (in Kreol Seselwa)
 
-Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour                                                         
-soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
+Choppy, Penda Thérésia (2014). "Lenportans annan en sistenm ledikasyon kiltirel pour lidantite nasyonal, e donk pour soutenabilite." Paper delivered at International Colloquium, 23rd Seychelles Kreol Festival, 1–2 October, 2014.
 
 ## Session 5: A Language that Binds / A Language that Divides: The Kreol Paradox in Mauritius
 
