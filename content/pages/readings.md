@@ -10,7 +10,7 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 
 DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
-DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Human Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
+DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Children's Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
 DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697
 
@@ -24,7 +24,7 @@ DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woe
 
 DeGraff, Michel, and Kendy Vérilus (2015). ["Kreyòl-Based Cyberlearning for a New Perspective on the Teaching of STEM in Local Languages" (video)](https://resourcecenters2015.videohall.com/presentations/519). NSF Teaching and Learning Video Showcase.
 
-Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 118–148.
+Doucet, Fabienne (2012). ["Arrested Development: How Lack of Will Cripples Educational Reform in Haiti."](https://www.jstor.org/stable/41715455#metadata_info_tab_contents) *Journal of Haitian Studies* 18(1), 120–150.
 
 ## Session 2: Linguistics and Social Justice: The MIT-Haiti Initiative as Case Study
 
@@ -64,7 +64,7 @@ Fox, Janna (2005). ["Revisiting the Storied Landscape of Language Policy Impact 
 
 Hossen, Marie-Thérèse (2018). ["*Lalang Seselwa an Mouvman*: The Changing Linguistic Landscape of Seychelles" (PDF)](https://unisey.ac.sc/wp-content/uploads/UniSey-Press_2021-Actes-du-XVIeme-colloque-international-des-etudes-creoles.pdf#page=309) in Penda T. Choppy and Aneesa J. Vel (eds.), *Créoles: enjeux éducatifs et culturels (Actes du XVIème colloqué international des études créoles)*. UniSey Press.
 
-Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation, UCL Institute of Education*.*
+Persaud, Indra (2017). ["Education in Seychelles," "The 'Power-Knowledge' dialectic," and "'Glocal' Postcolonial identities" (PDF - 15 MB)](https://core.ac.uk/download/pdf/79552785.pdf#page=24) in *Unpacking Paradise: Geography Education Narratives from the Seychelles.* Ph.D. dissertation, UCL Institute of Education*.*
 
 #### Optional Reading (in Kreol Seselwa)
 
@@ -82,13 +82,11 @@ Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural
 
 ### (Guest: Jo-Anne Ferreira)
 
-Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
+Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF - 1.1 MB)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
 
 Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
 
-#### Additional Resources
-
-[Patois video interviews in Trinidad](https://www.facebook.com/notes/668622467402137/)
+#### Additional Resource
 
 [Patois speakers share their knowledge (YouTube)](https://youtu.be/x2_zlqN6cHI%C2%A0)
 
@@ -96,9 +94,9 @@ Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.
 
 ### (Guests: Kadian Walters, Celia Blake, and Hubert Devonish)
 
-Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.ttlawcourts.org/jeibooks/books/EqualityForAllBookOnlineNew-June14.pdf)*,* 109–120. UWI Faculty of Law.
+Blake, Celia (2019). "Language and Access to Justice" in Janeille Zorina Matthews and Jewel Amoah (eds.), [*Securing Equality for All in the Administration of Justice*](https://www.researchgate.net/publication/351308388_SECURING_EQUALITY_FOR_ALL_IN_THE_ADMINISTRATION_OF_JUSTICE)*,* 109–120. UWI Faculty of Law.
 
-Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](file:///C:/Users/Peter%20Chipman/Downloads/BoysWillBeBoysbyCarpenterandDevonish.pdf) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies. ISBN: 9789768125927
+Carpenter, Karen, and Hubert Devonish (2013). ["Boys Will Be Boys: Gender and Bilingual Education in a Creole Language Situation" (PDF)](https://www.researchgate.net/publication/283914802_Boys_will_be_boys_Gender_and_Bilingual_Education_in_a_Creole_Language_Situation) in Jeannette Allsopp and John R. Rickford (eds.), *Language, Culture and Caribbean Identity*. University Press of the West Indies. ISBN: 9789768125927
 
 Devonish, Hubert (2007). "Language and Revolutionary Transformation in the Caribbean: The Case of Guyana" in *Language and Liberation: Creole Language Politics in the Caribbean,* 182–241. Arawak. ISBN: 9780946918270
 
@@ -122,7 +120,7 @@ Costa, James, Haley De Korne, and Pia Lane (2017). ["Standardizing Minority Lang
 
 Haugen, Einar (1966) ["Dialect, Language, Nation."](https://www.jstor.org/stable/670407#metadata_info_tab_contents) *American Anthropologist* New Series 68(4): 922–935.
 
-Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Basque Speaker"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in Costa et al., *Standardizing Minority Languages: Reinventing Peripheral Languages in the 21st Century*. Routledge. ISBN: 9781315647722
+Urla, Jacqueline, Estibaliz Amorrortu, Ane Ortega, and Jone Goirigolzarri (2018). ["Basque Standardization and the New Speaker: Political Praxis and the Shifting Dynamics of Authority and Value"](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781315647722-2/basque-standardization-new-speaker-jacqueline-urla-estibaliz-amorrortu-ane-ortega-jone-goirigolzarri?context=ubx&refId=7469d872-40fc-4ccf-9a52-d7305d894d12) in Lane et al., *Standardizing Minority Languages: Competing Ideologies of Authority and Authenticity in the Global Periphery*. Routledge. ISBN: 9781315647722
 
 ## Session 9: Decolonizing Iñupiaq Language Curricula 
 
@@ -136,15 +134,13 @@ Olin, Annauk (2021). [*Iñupiatun Iñuguġlavut Miqłiqtuvut: Let Us Raise Our C
 
 ### (Guest: Kevin Scannell)
 
-Galla, Candace Kaleimamoowahinekapu (2009). [“Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains”](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf) in Jon Reyhner and Louise Lockard (eds.), *Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned,* 167–182. Northern Arizona University. ISBN: 096705544X
+Galla, Candace Kaleimamoowahinekapu (2009). [“Indigenous Language Revitalization and Technology: From Tradition to Contemporary Domains" (PDF)](https://jan.ucc.nau.edu/~jar/ILR/ILR-13.pdf) in Jon Reyhner and Louise Lockard (eds.), *Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned,* 167–182. Northern Arizona University. ISBN: 096705544X
 
 Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resources and Māori Initiatives for Teaching and Learning: Current Activities, Successes and Future Directions.”](https://natlib-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=INNZ7116899490002837&vid=NLNZ&search_scope=INNZ&tab=innz&lang=en_US&context=L) *MAI Review* 1.
 
 ## Session 11: Beyond Linguistic Repression at 60° N: Growing Acceptance of Diversity in Shetland
 
 ### (Guest: Viveka Velupillai)
-
-I Hear Dee (group promoting public awareness of Shaetlan): [Instagram](http://instagram.com/iheardee) or [Facebook](https://www.facebook.com/iheardee)
 
 Uradale (video channel) (2021). ["Da Burn" (YouTube)](https://www.youtube.com/watch?v=P5O6eRJtv8E) —about the history of Shaetlan
 
@@ -164,7 +160,7 @@ Baptista, Marlyse, Inês Brito, and Saidu Bangura (2010). [“Cape Verdean in Ed
 
 ### (Guests: Ellen-Rose Kambel and Deena Hurwitz, Rutu Foundation and Language Friendly Schools)
 
-Hurwitz, Deena R., and Ellen-Rose Kambel (2020). ["Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative."](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y) *Global Campus Human Rights Journal* 4(1): 5–24.
+Hurwitz, Deena R., and Ellen-Rose Kambel (2020). ["Redressing Language-Based Exclusion and Punishment in Education and the Language Friendly School Initiative" (PDF).](https://repository.gchumanrights.org/bitstream/handle/20.500.11825/1707/03.Redressing%20language-based%20exclusion%20and%20punishment%20in%20education%20and%20the%20Language-Friendly%20School%20initiative.pdf?sequence=4&isAllowed=y) *Global Campus Human Rights Journal* 4(1): 5–24.
 
 Kambel, Ellen-Rose, and Emmanuelle Le Pichon (2021): ["Schools Join the Language Friendly School Network to Support Students’ Identities."](https://www.schooleducationgateway.eu/en/pub/latest/news/language-friendly-schools.htm) SchoolEducationGateway.eu.
 
