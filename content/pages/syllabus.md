@@ -28,9 +28,9 @@ Our point of departure will be these three related observations:
 
 Now consider this three-way gap between:
 
-- our own egalitarian ideals in (1) about the universal worth of the world’s languages;
-- these discriminatory practices, in (2), that exclude too many languages in classrooms (and even courtrooms) throughout the world, especially in the Global South, where these languages are most needed for universal access to quality education (and to justice);
-- the, often inadvertent, elitist and exclusive nature of academia, as in (3), which risks alienating these very speech communities whose struggles for liberation, justice, and economic opportunity stand to benefit from our research in linguistics.
+- our own egalitarian ideals in point (1) above about the universal worth of the world’s languages;
+- these discriminatory practices, in point (2), that exclude too many languages in classrooms (and even courtrooms) throughout the world, especially in the Global South, where these languages are most needed for universal access to quality education (and to justice);
+- the, often inadvertent, elitist and exclusive nature of academia, as in point (3), which risks alienating these very speech communities whose struggles for liberation, justice, and economic opportunity stand to benefit from our research in linguistics.
 
 Now here’s a key question for us:
 
