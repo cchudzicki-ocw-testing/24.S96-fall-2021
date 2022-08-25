@@ -10,15 +10,15 @@ uid: 82f4d74f-ad68-4a4d-8ad1-a87c1fec1ad2
 
 DeGraff, Michel (2005). ["Linguists’ Most Dangerous Myth: The Fallacy of Creole Exceptionalism" (PDF)](http://lingphil.mit.edu/papers/degraff/degraff2005fallacy_of_creole_exceptionalism.pdf). *Language in Society* 34: 533–591.
 
-DeGraff, Michel (2017). ["Haiti’s 'Linguistic Apartheid' Violates Children's Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
+**———** (2017). ["Haiti’s 'Linguistic Apartheid' Violates Children's Rights and Hampers Economic Development."](https://www.opendemocracy.net/en/openglobalrights-openpage/haiti-s-linguistic-apartheid-violates-children-s-rights-and-hampers-/) openDemocracy.net.
 
-DeGraff, Michel (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697
+**———** (2019). ["Against Apartheid in Education and in Linguistics" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2019_Against_Apartheid_in_Haiti.pdf), foreword to *Decolonizing Foreign Language Education: The Misteaching of English and Other Colonial Languages*, edited by Donaldo Macedo. Routledge. ISBN: 9781138320697
 
-DeGraff, MIchel (2020). ["The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation."](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/) *JOPOL* 3.
+**———** (2020). ["The Politics of Education in Post-colonies: Kreyòl in Haiti as a Case Study of Language as Technology for Power and Liberation."](https://iacpl.net/jopol/issues/journal-of-postcolonial-linguistics-32020/the-politics-of-education-in-post-colonies-kreyol-in-haiti-as-a-case-study-of-language-as-technology-for-power-and-liberation/) *JOPOL* 3.
 
-DeGraff, Michel (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
+**———** (2021). ["Toward Racial Justice in Linguistics: The Case of Creole Studies" (PDF)](http://lingphil.scripts.mit.edu/papers/degraff/DeGraff_2020_Racial_justice_in_Ceole%20studies.pdf). *Language* 96(4): e292–e306.
 
-DeGraff, Michel (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
+**———** (2021). ["Creole Formation vs. Language Emergence in Homo Sapiens" (YouTube)](https://www.youtube.com/watch?v=b7UzUt8peRE). Keynote lecture at [@Protolang7](https://github.com/Protolang7) conference, September 6, 2021.
 
 DeGraff, Michel, and Molly Ruggles (2014). ["A Creole Solution for Haiti’s Woes."](https://www.nytimes.com/2014/08/02/opinion/a-creole-solution-for-haitis-woes.html?smid=tw-share) *New York Times*, 1 August 2014.
 
@@ -84,7 +84,7 @@ Natchoo, Marty Gilles Nicholas (2020). [*A Creolizing Curriculum: Multicultural
 
 Ferreira, Jo-Anne (2012). ["Caribbean Languages and Caribbean Linguistics" (PDF - 1.1 MB)](https://uwispace.sta.uwi.edu/dspace/bitstream/handle/2139/41235/Caribbean%20Heritage%20Ferreira%202012.pdf?sequence=1&isAllowed=y) in Basil A. Reid (ed.), *Caribbean Heritage*, 207–221. UWI Press. ISBN: 9789766402648
 
-Ferreira, Jo-Anne (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
+**———** (2018). ["Language and Social Justice in T & T."](https://sta.uwi.edu/uwitoday/archive/july_2018/article16.asp) *UWI Today*, July 2018.
 
 #### Additional Resource
 
@@ -144,11 +144,11 @@ Keegan, Peter J., Te Kaka Keegan, and Mark Laws (2011). [“Online Māori Resour
 
 Uradale (video channel) (2021). ["Da Burn" (YouTube)](https://www.youtube.com/watch?v=P5O6eRJtv8E) —about the history of Shaetlan
 
-Uradale (video channel) (2021). ["Haar Rolling in over Uradale" (YouTube)](https://www.youtube.com/watch?v=55jbb4iOy5Q) —about language endangerment and revival
+**———** (2021). ["Haar Rolling in over Uradale" (YouTube)](https://www.youtube.com/watch?v=55jbb4iOy5Q) —about language endangerment and revival
 
 Velupillai, Viveka (2020). "Loops on Wires: Knitting in Shetland Dialect." *The Knitter Magazine* 155: 46–48. 
 
-Velupillai, Viveka (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.
+**———** (2020). ["Musings around Eddie's Noost."](https://www.moderdy.org/post/musings-around-eddie-s-noost)  ModerDy.org.
 
 ## Session 12: Cabo Verdean in Education: Access, Equity, and a Basic Human Right 
 
