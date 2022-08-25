@@ -36,7 +36,7 @@ Now here’s a key question for us:
 
 Is it our responsibility, as linguists, to analyze and try to narrow this three-way gap?
 
-Some of the reasons for the sort of linguistic discrimination mentioned in (2) have to do with colonial history and white supremacy writ large.  A full analysis of (2) would take us too far afield as it would require forays into history, sociology, political science, critical race theory, etc. 
+Some of the reasons for the sort of linguistic discrimination mentioned in (2) have to do with colonial history and white supremacy writ large.  A full analysis would take us too far afield as it would require forays into history, sociology, political science, critical race theory, etc. 
 
 Our goal this semester will be more modest and more in line with our discipline, though we will certainly need to keep the above disciplines in mind throughout our discussions.  At the very least, we need to unveil the often hidden role of ideology and various “normative gazes” in deciding what sorts of questions, in the first place, are even worth asking among linguists.
 
