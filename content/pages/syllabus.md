@@ -2,7 +2,7 @@
 content_type: page
 description: This page lays out the basic information about the course topic, policies,
   and grading for 24.S96 Linguistics and Social Justice
-draft: true
+draft: false
 title: Syllabus
 uid: 9de45d59-4a97-46d3-a574-6186ff07631c
 ---
